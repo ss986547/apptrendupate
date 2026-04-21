@@ -33,11 +33,11 @@ SUBREDDITS = [
     "fitness", "running", "loseit", "personalfinance", "Parenting",
 ]
 
-POSTS_PER_SUB = 10   # top posts of the week per subreddit
-COMMENTS_PER_POST = 5  # top comments to capture user voice
+POSTS_PER_SUB = 7    # top posts of the week per subreddit (was 10)
+COMMENTS_PER_POST = 3  # top comments to capture user voice (was 5)
 
 # Hacker News
-HN_TOP_COUNT = 20
+HN_TOP_COUNT = 15   # was 20
 
 # App Store RSS feeds (US, by genre)
 # Genre IDs: 6007=Productivity, 6002=Utilities, 6005=SocialNetworking,
@@ -49,17 +49,21 @@ APPSTORE_GENRES = {
     "Lifestyle": 6012,
     "Education": 6017,
 }
-APPSTORE_LIMIT = 25  # top N per genre
+APPSTORE_LIMIT = 15  # top N per genre (was 25)
 
 # Review scraping: for each genre, scrape low-star reviews from top apps
 # This is where the real gold is — actual users complaining about what existing apps fail at
-REVIEW_APPS_PER_GENRE = 5      # scrape reviews for top N apps per genre
-REVIEW_PAGES_PER_APP = 3        # iTunes RSS paginates; each page = ~50 reviews
+REVIEW_APPS_PER_GENRE = 3      # scrape reviews for top N apps per genre (was 5)
+REVIEW_PAGES_PER_APP = 2        # iTunes RSS paginates; each page = ~50 reviews (was 3)
 LOW_STAR_THRESHOLD = 3          # include reviews with rating <= this
 MIN_REVIEW_LENGTH = 80          # filter out "meh" one-liners with no signal
+MAX_REVIEWS_TOTAL = 60          # hard cap to prevent prompt bloat
 
 # Gemini
-GEMINI_MODEL = "gemini-2.5-pro"  # 5 RPM / 100 RPD free tier - plenty for weekly use
+# gemini-2.5-flash: 10 RPM, 250 RPD, more generous TPM than Pro on free tier.
+# Quality is more than sufficient for this analysis task.
+# If you want to try Pro later, switch to "gemini-2.5-pro" (5 RPM, 100 RPD, tighter TPM)
+GEMINI_MODEL = "gemini-2.5-flash"
 
 
 # ---------- COLLECTORS ----------
@@ -287,6 +291,12 @@ def collect_reviews(appstore_data: List[Dict]) -> List[Dict]:
                 print(f"[reviews] {app_name} page {page} failed: {e}")
                 break
 
+    # Sort by rating (lowest first — 1-stars are richest) then cap total to prevent prompt bloat
+    out.sort(key=lambda r: r["rating"])
+    if len(out) > MAX_REVIEWS_TOTAL:
+        print(f"[reviews] trimming from {len(out)} to {MAX_REVIEWS_TOTAL} (lowest-rated first)")
+        out = out[:MAX_REVIEWS_TOTAL]
+
     print(f"[reviews] collected {len(out)} low-star reviews from {len(targets)} apps")
     return out
 
@@ -434,11 +444,26 @@ def build_prompt(reddit_data, hn_data, appstore_data, ph_data, reviews_data) -> 
 def analyze_with_gemini(prompt: str) -> str:
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     model = genai.GenerativeModel(GEMINI_MODEL)
-    resp = model.generate_content(
-        prompt,
-        generation_config={"temperature": 0.4, "max_output_tokens": 8192},
-    )
-    return resp.text
+
+    # Retry with backoff on rate limit errors (free tier is strict on TPM)
+    max_retries = 4
+    for attempt in range(max_retries):
+        try:
+            resp = model.generate_content(
+                prompt,
+                generation_config={"temperature": 0.4, "max_output_tokens": 8192},
+            )
+            return resp.text
+        except Exception as e:
+            err_str = str(e)
+            # ResourceExhausted / 429 / quota errors — wait and retry
+            if any(s in err_str for s in ["429", "ResourceExhausted", "quota", "RATE_LIMIT"]):
+                wait = 30 * (attempt + 1)  # 30s, 60s, 90s, 120s
+                print(f"[gemini] rate limited (attempt {attempt+1}/{max_retries}), waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            raise
+    raise RuntimeError("Gemini rate limit: max retries exceeded")
 
 
 # ---------- NOTIFY ----------
