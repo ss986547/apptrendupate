@@ -5,15 +5,14 @@ on:
     # Every Friday at 5pm Pacific.
     # PDT (summer, UTC-7): Fri 17:00 PDT = Sat 00:00 UTC
     # PST (winter, UTC-8): Fri 17:00 PST = Sat 01:00 UTC
-    # We schedule for 00:00 UTC Saturday, which is exact during PDT and ~1hr early during PST.
     - cron: '0 0 * * 6'
-  workflow_dispatch:  # allow manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   scout:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit the report back
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
