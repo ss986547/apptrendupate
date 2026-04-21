@@ -2,8 +2,9 @@ name: Weekly iOS Idea Scout
 
 on:
   schedule:
-    - cron: '0 0 * * 6'
-  workflow_dispatch:
+    # 매월 첫째 금요일 오후 5시 Pacific (= 둘째주 토요일 00:00 UTC)
+    # cron은 "매월 1-7일 중 토요일"로 표현됨
+    - cron: '0 0 1-7 * 6'
 
 jobs:
   scout:
