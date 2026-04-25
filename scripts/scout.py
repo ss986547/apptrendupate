@@ -89,10 +89,10 @@ def collect_reddit() -> List[Dict]:
     for sub_name in SUBREDDITS:
         try:
             # 1) fetch top posts of the week
-            posts_url = (
+           posts_url = (
                 f"https://www.reddit.com/r/{sub_name}/top.json"
                 f"?t=month&limit={POSTS_PER_SUB}"
-            )
+           )
             r = requests.get(posts_url, headers=headers, timeout=15)
             if r.status_code != 200:
                 print(f"[reddit] {sub_name} returned {r.status_code}")
