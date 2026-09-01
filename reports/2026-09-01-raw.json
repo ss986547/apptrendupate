@@ -1,0 +1,1452 @@
+{
+  "date": "2026-09-01",
+  "reddit": [],
+  "hackernews": [
+    {
+      "source": "HackerNews",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "score": 380,
+      "num_comments": 98,
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Playa Phone",
+      "score": 521,
+      "num_comments": 189,
+      "url": "https://playaphone.com/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "score": 234,
+      "num_comments": 30,
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A"
+    },
+    {
+      "source": "HackerNews",
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "score": 30,
+      "num_comments": 18,
+      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "score": 248,
+      "num_comments": 28,
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Lion-man",
+      "score": 69,
+      "num_comments": 32,
+      "url": "https://en.wikipedia.org/wiki/Lion-man"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "score": 19,
+      "num_comments": 2,
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "score": 318,
+      "num_comments": 117,
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "score": 52,
+      "num_comments": 32,
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "score": 321,
+      "num_comments": 368,
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: Laser Graffiti",
+      "score": 135,
+      "num_comments": 29,
+      "url": "https://laser.consti.de"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+      "score": 45,
+      "num_comments": 14,
+      "url": "https://www.bbc.com/news/articles/c24j5192j7jo"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Run macOS Software on Linux",
+      "score": 141,
+      "num_comments": 48,
+      "url": "https://www.darlinghq.org/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "score": 161,
+      "num_comments": 42,
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "score": 77,
+      "num_comments": 88,
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261"
+    }
+  ],
+  "appstore": [
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 1,
+      "app_id": "6448311069",
+      "name": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "summary": "Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.\n\nThis official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.\n\nWith ChatGPT in your pocket, you’ll find:\n\n· Image generation–Generate original images from a description, or transform existing ones with a few simple words. \n· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 2,
+      "app_id": "983156458",
+      "name": "Microsoft Authenticator",
+      "artist": "Microsoft Corporation",
+      "summary": "Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.\n\nGetting started with multi-factor authentication\n\nMulti factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 3,
+      "app_id": "6473753684",
+      "name": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "summary": "Meet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems and hard questions with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone.\n\nAI WRITING ASSISTANT \n\nTurn rough ideas into polished work. Whether you're crafting social media posts, professional emails, or complex reports, Claude refines tone, structure, and clarity, iterating with you until your voice comes thr"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 4,
+      "app_id": "6477489729",
+      "name": "Google Gemini",
+      "artist": "Google",
+      "summary": "From your morning commute to late-night deep dives, Google Gemini is your personal, proactive and powerful AI assistant.\n\nWHY USERS LOVE GEMINI\n• Our latest models, Gemini 3.6 Flash and Gemini Omni, unlock a new world of productivity and creativity.\n• Gemini Spark 24/7 personal AI agent proactively manages tasks and helps you navigate your digital life, all under your direction.\n• Daily Brief agent gives you a personalized morning brief and organizes exactly what you need to know to start your d"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 5,
+      "app_id": "422689480",
+      "name": "Gmail - Email by Google",
+      "artist": "Google",
+      "summary": "The official Gmail app brings the best of Gmail to your iPhone and iPad with helpful AI features, robust security, real-time notifications, multiple account support, and intelligent search that works across all your mail.\n\nWith the Gmail app, you can:\n• Make Gmail your default email app on iOS\n• Stay up to date on your latest packages, upcoming events, bills, and travel details with helpful summary cards\n• Declutter your inbox with built-in email subscription management\n• Use Gemini* in Gmail to"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 6,
+      "app_id": "951937596",
+      "name": "Microsoft Outlook",
+      "artist": "Microsoft Corporation",
+      "summary": "Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.\n\nHere's what you'll love about Outlook for iOS:\n\n- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.\n- Swipe to quickly schedule, delete and archive messages.\n- Share your meetin"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 7,
+      "app_id": "1558240027",
+      "name": "Meta AI",
+      "artist": "Meta Platforms, Inc.",
+      "summary": "Meta AI is your personal AI assistant — connected to the world, but rooted in yours. It answers, creates, and helps get things done.\n\n• Do more: Meta AI can take on bigger tasks—get daily briefings and reminders, stay on top of your email and calendar, build shopping lists, track workout plans, and more.\n\n• Get creative: Create and edit images with Meta Al's newest image generation capabilities. Use presets inspired by trending styles or easily create your own. Easily edit photos just by sketchi"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 8,
+      "app_id": "6670324846",
+      "name": "Grok AI",
+      "artist": "X Corp.",
+      "summary": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the universe is in your hands!\n\nAI assistant\n- Ask anything and get fast replies, have Grok do deep research on the web for you, or solve the hardest problems in math, science, and coding with Grok 4.\n- Upload documents and photo"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 9,
+      "app_id": "507874739",
+      "name": "Google Drive",
+      "artist": "Google",
+      "summary": "Google Drive lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Scan and upload paper documents using your device’s camera\n• Quickly access recent and important files\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 10,
+      "app_id": "1370293473",
+      "name": "VPN - Super Unlimited Proxy",
+      "artist": "Mobile Jump Pte Ltd",
+      "summary": "FREE VPN FEATURES\nExperience the best free VPN: no ad interruptions and limits\n- Unlimited speed, bandwidth, and time at no cost\n- Access content from 40+ server locations (20+ US cities)\n- Fast VPN: 5,000+ servers dedicated to free users\n- No Activity Logs\n- Military-grade encryption\n- Optimized for iOS devices with 16.0+ (iPhone, iPad, Mac, Apple Vision)\n- No registration needed\n\nFirst time users get a 7-day free trial to our monthly and yearly plans.\n\nWHAT IS A VPN?\n\nVPNs create an encrypted "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 11,
+      "app_id": "909319292",
+      "name": "Google Calendar: Get Organized",
+      "artist": "Google",
+      "summary": "The official Google Calendar app helps you stay organized and plan your day with easy event creation, multiple calendars, customizable views, widgets, and tasks.\n\nWith Google Calendar, you can:\n• Get events automatically added to your Calendar from Gmail, including flight, hotel, concert, and restaurant reservations.\n• Go from using Calendar on your iPhone, iPad, or Apple Watch to your computer without missing a beat when you’re logged into the same Google account.\n• Consolidate and view Google "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 12,
+      "app_id": "842842640",
+      "name": "Google Docs",
+      "artist": "Google",
+      "summary": "Create, edit, and collaborate on online documents with the Google Docs app.\n\nWork together in real time\n• Share documents with your team\n• Edit, comment, and add action items in real time\n\nCreate anywhere, anytime—even offline\n• Capture spontaneous ideas on the fly\n• Get things done, even on the go, with offline mode\n• Save time and add polish with easy-to-use templates\n\nEdit and share multiple file types\n• Open a variety of files, including Microsoft Word files, right in Google Docs\n• Frictionl"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 13,
+      "app_id": "842849113",
+      "name": "Google Sheets",
+      "artist": "Google",
+      "summary": "Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:\n\n* Create new spreadsheets or edit existing ones\n* Share spreadsheets and collaborate with others in the same spreadsheet at the same time\n* Work anywhere, anytime - even offline\n* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more\n* Never worry about losing your work -- everything is automatically saved as you type\n* Open, edit, and save Excel files\n\nGoogle Sheets "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 14,
+      "app_id": "586447913",
+      "name": "Microsoft Word",
+      "artist": "Microsoft Corporation",
+      "summary": "Send, open and edit Office files from your mobile with the full power of Microsoft’s word-processing tools. Whether you're a writer, freelancer, student or project manager, Word moves with you.\n\nEnhance your writing with Copilot in Word when signed in with your Microsoft 365 subscription.* Draft, edit, collaborate, and share with confidence – anytime, anywhere.\n\nCreate impactful blogs, proposals, CVs, branding materials and more. Customise every document with rich formatting options and professi"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 15,
+      "app_id": "6443686328",
+      "name": "Link to Windows",
+      "artist": "Microsoft Corporation",
+      "summary": "You love your phone. So does your PC. Get instant access to everything you love on your phone, right from your PC. To get started, connect your iPhone with the Phone Link Feature on your Windows PC.\r\n Enjoy these Phone Link features on your PC: \r\n\r\n • Make and receive calls\r\n • Manage your phone's notifications \r\n • Read and reply to text messages\r\n • View your phone contacts\r\n • Share files between your phone and PC \r\n\r\nPhone Link for iOS requires iPhone running iOS 16 or higher, and a PC with "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 1,
+      "app_id": "284815942",
+      "name": "Google",
+      "artist": "Google",
+      "summary": "Download the Google app to find quick answers, explore your interests, and ask anything on your mind in any way. Try AI in Google Search with AI Mode, Lens, Search Live, and more.\n\nFeature highlights*:\n\n• AI Mode: Get AI-powered responses to your toughest questions with AI Mode–talk, type, or snap a photo to get started, and ask follow-up questions to dig deeper. You’ll continue to see a range of helpful links so you can keep exploring across the web.\n• Google Lens: See something you like? Snap "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 2,
+      "app_id": "535886823",
+      "name": "Google Chrome",
+      "artist": "Google",
+      "summary": "Chrome helps you do what’s possible on the web. Download the fast, secure browser by Google.\n\nGET THE BEST OF GOOGLE IN CHROME\n\n• SEARCH WITH GOOGLE - Search and get answers on Google fast. Use your voice to search hands-free.\n• GOOGLE LENS - Search what you see on your screen or with your camera.\n• GOOGLE TRANSLATE - Explore the web in 130+ languages. Translate entire sites in one click.\n\nBROWSE WITH BEST-IN-CLASS SECURITY\n\n• ENHANCED PROTECTION MODE - Browse confidently with the highest level "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 3,
+      "app_id": "388497605",
+      "name": "Google Authenticator",
+      "artist": "Google",
+      "summary": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or cellular connection.\n\n• Sync your Authenticator codes to your Google Account and across your devic"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 4,
+      "app_id": "1510944943",
+      "name": "Cleanup: Phone Storage Cleaner",
+      "artist": "DEEP FLOW SOFTWARE SERVICES",
+      "summary": "Clean up your iPhone and optimize storage in seconds. \n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam an"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 5,
+      "app_id": "1288723196",
+      "name": "Microsoft Edge",
+      "artist": "Microsoft Corporation",
+      "summary": "Browse with Microsoft Edge, your everyday web browser with built-in Copilot. From finding information to making sense of it, Copilot works alongside you to streamline everyday browsing, so you can turn ideas into action and get it done faster. \n\nCopilot in Edge helps you search, browse, and explore, so you can make decisions faster with more confidence, all in one place.  Summarize lengthy articles and videos, get answers about what you are browsing, and turn ideas into drafts or images – withou"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 6,
+      "app_id": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "artist": "EVOLLY.APP",
+      "summary": "TV Remote is the ultimate solution for controlling your Smart TV from the comfort of your phone. With its easy-to-use interface and compatibility with various TV brands such as Samsung, Roku, LG, Sony, FireTV, AndroidTV, Vizio, and Hisense, this app lets you take charge of your TV viewing experience. You can connect your device to your TV via WIFI, and enjoy full control of your TV functions, including volume, channels, input sources, and more, right from your mobile device. Whether you're watch"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 7,
+      "app_id": "1178765645",
+      "name": "Xfinity",
+      "artist": "Comcast",
+      "summary": "Your Xfinity experience, enhanced.\n\nEasily manage all your services in one place with the Xfinity app. Plus discover the power of NOW.\n\nNOW is a simple new way to get internet and mobile. It’s just what you want, and nothing you don’t. With all-in monthly pricing. Backed by Xfinity.\n\nXfinity customers also get:\n\n•\t24/7 real-time support anytime you need it.\n•\tTools to help you seamlessly activate your equipment and test your internet speed.\n•\tXfinity Rewards. Enjoy special perks, unique experien"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 8,
+      "app_id": "416023011",
+      "name": "My Verizon",
+      "artist": "Verizon Wireless",
+      "summary": "Meet the My Verizon app. It’s everything Verizon, all in one place. Launch the app and get your latest personalized view of customizable shortcuts, your current balance, bill savings, perks, offers and more. And to find what you’re looking for faster, switch between different app sections using the tab bar. \n\nWhat’s inside:\nThere’s loyalty you’ll love, featuring Verizon Shine for daily drops, epic experiences and more. Plus, opt in to start scoring 3% cash back every single month with Verizon Do"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 9,
+      "app_id": "309172177",
+      "name": "AT&T",
+      "artist": "AT&T Services, Inc.",
+      "summary": "One app, every connection. The all-new AT&T app gives you unprecedented access, control, and insight with a sleek, reimagined interface. \n\nShop our best deals, pay your bill, manage your account and connections, and get help when you need it. A powerful AI assistant is always available to answer questions, resolve issues, and guide you to the right plans, devices, and upgrades.\n\nWith clear visibility into your network, you can track data usage, locate a device, refresh your connection, manage do"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 10,
+      "app_id": "1437005085",
+      "name": "Proton VPN: Fast & Secure",
+      "artist": "Proton AG",
+      "summary": "Trusted by millions worldwide, Proton VPN is the world's only free VPN app that is safe to use and respects your privacy. \n\nOur fast VPN offers secure, private and encrypted internet access with advanced security features. Proton VPN also unblocks access to popular websites and streaming platforms.\n\nProton VPN was created by the CERN scientists behind Proton Mail - the world's largest encrypted email service.\n\nProton’s secure no-logs VPN offers 24/7 safe and private internet access, and does not"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 11,
+      "app_id": "663592361",
+      "name": "DuckDuckGo, optional Duck.ai",
+      "artist": "DuckDuckGo, Inc.",
+      "summary": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all. That's why millions of people choose DuckDuckGo over Chrome and other browsers to search and browse online. Our built-in search engine is like Google but never tracks your searches. Our browser blocks YouTube ads, invasive web ads, and cookie pop-ups, reducing distractions and helping to stop other companies from collecting "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 12,
+      "app_id": "942608209",
+      "name": "My Spectrum",
+      "artist": "Charter Communications",
+      "summary": "One app – all your services! We’ve made it even easier for residential customers to sign in and manage your Spectrum account with My Spectrum App.\n\n\nPay Your Spectrum Bill\n•\tPay your bill for Spectrum Mobile, Internet, TV and Home Phone.\n•\tEnroll in Auto Pay: Never miss a billing due date.\n•\tSchedule one-time payments: Control how and when your Spectrum payment is sent.\n•\tSign-up for paperless billing.\n•\tFind statements: Review previous billing statements and service history.\n\n\n\nDo You Speak Spa"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 13,
+      "app_id": "6754900760",
+      "name": "Authenticator ℠ App",
+      "artist": "BEGAMOB GLOBAL LIMITED",
+      "summary": "Protect your online accounts with secure, standards-based two-factor authentication. Authenticator App – 2FA MFA generates time-based one-time passwords (TOTP) directly on your iPhone, giving you a reliable second step for sign-ins without depending on SMS codes.\n\nAuthenticator provides reliable security for both personal and work accounts. From email and social media to crypto platforms and business tools, the app helps keep your login information protected and easy to access. Commonly supporte"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 14,
+      "app_id": "6504287215",
+      "name": "Happ - Proxy Utility",
+      "artist": "Flyfrog LLC",
+      "summary": "Important Notice\nHapp does not sell or provide VPN services. Beware of scammers claiming to offer “official Happ VPNs” — they are not affiliated with us. Users must set up their own servers and follow local laws when using the app.\n\nHapp is a mobile app that makes using proxy and vpn servers easy, offering a user-friendly interface and useful features.\n\nMain functionalities include:\n\nConfiguration of proxies based on rules.\nSupport for multiple protocol types.\nHidden subscriptions.\nEncrypted sub"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 15,
+      "app_id": "6451097052",
+      "name": "JumpJumpVPN: Fast & Secure",
+      "artist": "SOON BODYWERKZ AUTO PTE. LTD.",
+      "summary": "JumpJumpVPN - Fast & Stable VPN\nJumpJumpVPN helps you enjoy a smooth and reliable internet connection anywhere.\nWhy Choose JumpJumpVPN?\nJumpJumpVPN provides a simple, user-friendly experience with consistent connection quality and flexible server options.\nKey Features:\nFree to Use: Connect through free global servers with no data limits.\nHigh-Speed Network: Optimized routing ensures fast and stable connection.\nReliable Performance: Keep your network connection smooth at all times.\nEasy to Use: O"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 1,
+      "app_id": "426826309",
+      "name": "Strava: Run, Bike, Walk",
+      "artist": "Strava, Inc.",
+      "summary": "*App Store Award Winner -Apple Watch App of the Year*\n\nStrava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:\n\n• Record everything – runs, rides, hikes, yoga and over 50+ other sport types. Think of Strava as the homebase of your movement.\n\n• See the full story of your strength training – Lifting in the gym weekly, doing HIIT workouts, and showing up to your group weight training classes? Use your favorite device "
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 2,
+      "app_id": "399857015",
+      "name": "Planet Fitness",
+      "artist": "Planet Fitness Holdings, LLC",
+      "summary": "Welcome to the Planet Fitness App: The Gym in Your Pocket!\nDid you know the PF App has tons of free features everyone? It’s not just Planet Fitness members that can enjoy what the PF App has to offer! We believe fitness should be accessible for all, which is why non-members have access to a huge library of on-demand digital workouts, helpful exercise tutorials for extra guidance, and activity tracking to celebrate wins. You can even sign up for your membership in the PF App without visiting your"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 3,
+      "app_id": "6759914925",
+      "name": "New EōS Fitness",
+      "artist": "Fitness Alliance LLC",
+      "summary": "Elevate your fitness routine with the EōS app. Your all-in-one way to manage your membership, get into the gym fast and stay connected to the classes you love.\n\nThe app offers an array of features, including:\n\nGym Entry\nGet into EōS faster with your digital barcode and NFC pass right from your phone.\n\nGroup Classes (G-Fit)\nExplore the full class schedule, reserve your spot, join waitlists and save your favorite classes and instructors so you’re always ready to move.\n\nMy Calendar\nKeep your routin"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 4,
+      "app_id": "1038369065",
+      "name": "Flo Cycle & Period Tracker",
+      "artist": "FLO HEALTH UK LIMITED",
+      "summary": "Flo is a science-backed period tracker, ovulation tracker, fertility, and pregnancy app used by over 460 million* women worldwide.\n\nWhether you’re tracking your period (regular or irregular), trying to conceive, following changes to your baby and your body during pregnancy, or navigating perimenopause symptoms, Flo is here to support you. Join 460 million users* who use Flo’s science-backed insights, created with 100+ doctors and medical experts, to better understand their menstrual cycle.\n\nIs m"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 5,
+      "app_id": "1092799236",
+      "name": "Yuka - Food & Cosmetic Scanner",
+      "artist": "Yuca",
+      "summary": "◆ 85 MILLION USERS ◆\n\nYuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.\n\nWhen a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.\n\n◆ A 100% INDEPENDENT PROJECT ◆\n\nYuka is a 100% independent project : product reviews and recommendations of healthier alternative"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 6,
+      "app_id": "6746144481",
+      "name": "MenuFit - Healthy Eating Out",
+      "artist": "Kosco Digital LLC",
+      "summary": "MenuFit is your personalized guide to eating out without sacrificing your goals. Whether you’re cutting or bulking, we tell you exactly what to order at every restaurant — fast food, dine-in, or even bars.\n\n• Discover the best meals for your goals\n• Get meal suggestions from restaurants around the world\n• Instantly find what to order and what to avoid\n• Personalized by your preferences, goals, and dietary needs\n• AI chat assistant ready to answer anything about the menu\n• Works even if the menu "
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 7,
+      "app_id": "1502936453",
+      "name": "LADDER Strength Training Plans",
+      "artist": "Ladder Technologies, Inc.",
+      "summary": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health 2026 Best Overall\nCNET 2026 Best Strength Training App\n\nLadder gives you a structured, coach-built workout plan for every day — new each week, easy to follow, and designed for home or gym. No more guesswork, no more showing up not knowing what to do.\n\nA NEW WORKOUT PLAN EVERY DAY — Structured progre"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 8,
+      "app_id": "405075943",
+      "name": "AllTrails: Hike, Bike & Run",
+      "artist": "AllTrails, Inc.",
+      "summary": "Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over "
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 9,
+      "app_id": "341232718",
+      "name": "MyFitnessPal: Calorie Counter",
+      "artist": "MyFitnessPal, Inc.",
+      "summary": "Achieve your nutrition, calorie, macro & fitness goals with MyFitnessPal – the AI-powered food & fitness tracker with everything you need. Calories, macros, food, workouts – track it all in one place with one of the most comprehensive health, nutrition & fitness tracking apps available. Now with a built-in AI nutrition Coach for personalized guidance based on your goals and history. Plus GLP-1 journey support - log doses and set reminders in the app.\n\nCreate personalized fitness & nutrition goal"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 10,
+      "app_id": "6480417616",
+      "name": "Cal AI - Calorie Tracker",
+      "artist": "Viral Development LLC",
+      "summary": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.\n\nWe aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.\n\nIf you have any ideas or questions"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 11,
+      "app_id": "398210959",
+      "name": "Crunch Fitness",
+      "artist": "Crunch Fitness",
+      "summary": "The Crunch Fitness mobile app is a great way for Crunch members to enhance their fitness experience! With the app, you can:\n\n- Check into the gym with ease.\n- Track your gym check-ins and see your progress.\n- Review and manage your group class bookings.\n- Access and check your billing history.\n- Record your workouts and set personal fitness goals.\n- Connect your fitness wearable to track your activity seamlessly.\n\nDownload the Crunch Fitness app today and take control of your fitness journey!"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 12,
+      "app_id": "1454213029",
+      "name": "WeWard - Walking Rewards App",
+      "artist": "WEWARD",
+      "summary": "Transform your walking into winning as you step count with WeWard. Walking is great for your health, and your steps are worth more than you think.WeWarders walk 24% more on average—your body will thank you! Whether you're walking to stay fit, earn rewards, or give back to causes you love, every step counts. \n\nJoin 20 million WeWarders already tracking their progress and staying in shape with every step. Cash out rewards, redeem gifts and exclusive deals, or use your rewards to support charities."
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 13,
+      "app_id": "1528595748",
+      "name": "Finch: Self-Care Pet",
+      "artist": "Finch Care Public Benefit Corporation",
+      "summary": "Meet your new self-care best friend! Finch is a self-care pet app that helps you feel prepared and positive, one day at a time. Take care of your pet by taking care of yourself! Choose from a wide variety of self-care exercises personalized for you.\n\nTHE BEST DAILY SELF-CARE APP\n\nStruggling with stress, mental health, or need motivation? Is self-care a chore? Finch makes self-care finally feel rewarding, lightweight, and fun. Complete quick self-care exercises to grow your pet, earn rewards, and"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 14,
+      "app_id": "1145935738",
+      "name": "Cronometer: Calorie Counter",
+      "artist": "Cronometer Software Inc",
+      "summary": "Cronometer is a powerful calorie counter, nutrition tracker, and food diary designed for accuracy. \nTrack calories, macros, fasting, and 95+ vitamins and minerals with one of the most trusted health and fitness apps available. \n\nWhether you're using Cronometer as a weight loss tracker, macro tracker or overall metabolic health tracker, you'll get clear, reliable science-backed insights into your nutrition and how it supports your goals. \n\nUnlike basic calorie counters, Cronometer is built on a c"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 15,
+      "app_id": "979101825",
+      "name": "StepUp Pedometer Step Counter",
+      "artist": "Pratik Stephen",
+      "summary": "StepUp makes walking surprisingly fun with friends!\nTrack your steps, keep up with your crew, and be more active together!\n\nCrush your daily goal, build streaks, join step challenges, and cheer each other on!\nMore steps. More motivation. More fun.\n\nAnd the best part? StepUp is completely FREE!\nNo subscription required. No features locked away behind annoying paywalls!\n\nTRACK YOUR ACTIVITY \n- Automatically track steps, distance, floors & calories burned\n- Use just your phone, or sync with wearabl"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 1,
+      "app_id": "429047995",
+      "name": "Pinterest",
+      "artist": "Pinterest, Inc.",
+      "summary": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible."
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 2,
+      "app_id": "1111876388",
+      "name": "T-Life",
+      "artist": "T-Mobile",
+      "summary": "Whether you’re shopping, managing your account and devices, looking for a new plan, or snagging exclusive benefits, start with the T-Life app.  \n\n•\tShopping for a new device? Shop our widest selection without leaving your couch.\n•\tAccess exclusive benefits including Netflix On Us and savings on travel and dining.\n•\tGet freebies, fun perks, and a chance at epic prizes on T-Mobile Tuesday.\n•\tTry the Best Network and some of our favorite benefits for 30 days. For free. \n•\tSwitch to T-Mobile. Check "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 3,
+      "app_id": "926252661",
+      "name": "Ring - Always Home",
+      "artist": "Ring.com",
+      "summary": "Know what’s happening at home from wherever you are with Ring Video Doorbells, Security Cameras and Alarm systems, and Smart Lights. Ring Doorbells and Cameras can send you instant alerts when someone’s at your door or motion is detected. Keep an eye on what matters with live HD video and greet visitors with Two-Way Talk. With a Ring Protect subscription (or free trial), you can review, save, and share Ring videos.\n\nRing Smart Lights let you control and schedule lighting easily. Some models can "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 4,
+      "app_id": "1222822904",
+      "name": "SmartThings",
+      "artist": "Samsung Electronics Co., Ltd.",
+      "summary": "Quickly and easily connect and control your smart home devices through SmartThings.\nSmartThings is compatible with 100s of smart home brands. So, you can control all of your smart home gadgets in one place, including your Samsung Smart TV and smart home appliances.\nWith SmartThings, you can connect, monitor and control multiple smart home devices quicker and easier. Connect your Samsung smart TVs, smart appliances, smart speakers and brands like Ring, Nest and Philips Hue - all from one app.\nThe"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 5,
+      "app_id": "310738695",
+      "name": "Zillow Real Estate & Rentals",
+      "artist": "Zillow.com",
+      "summary": "Find your new home to buy or rent with expert real estate tools and millions of listings right at your fingertips. Seamlessly save, search, and share home listings and apartment rentals – all on the Zillow app. \n\nThe Zillow app puts essential real estate tools and experts at your fingertips, no matter where you are in your home search. Create a personalized plan, save and share homes with your partner in a shared collection, and stay organized every step of the way. Make your home search easier "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 6,
+      "app_id": "595287172",
+      "name": "Hinge Dating App: Match & Date",
+      "artist": "Hinge, Inc.",
+      "summary": "HINGE, DESIGNED TO BE DELETED\nHinge is the dating app for people who want to get off of dating apps. With profiles that show your personality through text, photos, video, and voice, you have unique conversations that lead to great dates. \n\nHOW WE GET YOU OFF HINGE\nWhen it comes to online dating, people are so busy matching that they’re not actually connecting, in person, where it counts. Hinge is on a mission to change that. So we built an app that’s designed to be deleted. Here’s how:\n\n* We qui"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 7,
+      "app_id": "1662982304",
+      "name": "Partiful: Party Invite Maker",
+      "artist": "Partiful",
+      "summary": "The easiest way to plan and discover social events. Create free event invite pages, send text updates, sell tickets, and find the best events near you.\n\nACTUALLY FUN EVENT PAGES (100% FREE)\n- Create pages for any event — birthdays, pregames, dinners, game nights, watch parties, group trips, bachelor/bachelorettes, weddings, and more\n- Make it aesthetic with page themes, effects, and event posters—or upload your own\n- Guests can see who else is going and add comments, GIFs, and photos to the page"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 8,
+      "app_id": "547702041",
+      "name": "Tinder Dating App: Date & Chat",
+      "artist": "Tinder LLC",
+      "summary": "Tinder is the place to meet someone new and see where a spark might lead. With millions of people nearby and around the world, Tinder makes dating fun and helps you find someone who matches your vibe, interests, and intentions.\n\nHOW IT WORKS\nMeeting new people on Tinder feels easy and natural. Every match is a chance to meet someone interesting and enjoy the kind of dating experience that feels fun, relaxed, and right for you. Conversations unfold at your pace and help you figure out who you gen"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 9,
+      "app_id": "536110000",
+      "name": "Vagaro",
+      "artist": "Vagaro Inc",
+      "summary": "Having a bad day and just need a quick pamper session? Use Vagaro to discover, explore, reserve, and manage beauty salon, spa, and fitness appointments – free and instantly – anytime, anywhere. You will read reviews and get the best daily deals and promotions on a variety of services, whether it’s your daily yoga session or your weekly mani pedi nail spa appointment. Find a salon or spa near you! \t\nIf you have a busy schedule you will love our email and text reminders. Collect points when you bo"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 10,
+      "app_id": "456282559",
+      "name": "myQ Garage & Access Control",
+      "artist": "The Chamberlain Group, Inc.",
+      "summary": "The myQ smart access app allows you to seamlessly open, close and monitor your garage door, commercial door, or gate from ANYWHERE. The app supports myQ-enabled products from leading garage door manufacturers including Chamberlain and LiftMaster. myQ helps you keep your home or business safe and secure.  \r\n\r\n \r\n\r\nWith the myQ Smart Garage Camera, you can keep an eye on your home’s busiest access point. myQ lets you know who’s coming and going, alerting you when someone is detected. With a video "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 11,
+      "app_id": "944011620",
+      "name": "Amazon Alexa",
+      "artist": "AMZN Mobile LLC",
+      "summary": "Use the Amazon Alexa app to manage Alexa-enabled devices, control music playback, view shopping lists on the go, keep track of upcoming reminders, check on active timers and much more. When you enable hands-free with Alexa, you can talk to Alexa by simply saying “Alexa” when the app is on your screen. The more you use Alexa, the more she adapts to your voice, vocabulary and personal preferences.\n\nDISCOVER MORE\n• Get more out of your Echo device through personalized feature recommendations from A"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 12,
+      "app_id": "1455685357",
+      "name": "Toyota",
+      "artist": "Toyota Motor Sales, U.S.A., Inc.",
+      "summary": "Stay Connected. Stay in Control. With the Toyota App.\n\nThe Toyota app makes it easy to manage your vehicle anytime, anywhere. Designed for convenience, safety, and peace of mind, the app lets you stay connected to your Toyota like never before.\nKey Connected Services Features (1):\nRemote Connect – Start or stop your engine, and lock or unlock your doors, among other features, including Digital Key (2) and Last Parked Location\nService Connect and Maintenance Made Simple – Schedule service with yo"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 13,
+      "app_id": "680819774",
+      "name": "Google Home",
+      "artist": "Google",
+      "summary": "The Google Home app helps you get the most out of Gemini for Home.\n\nSee your home at a glance\nThe Google Home app is designed to show you the status of your home and keep you up to date with what you may have missed.\n\nKeep up with what’s important\nUpdated design and streamlined organization help you group your devices into dashboards and easily navigate your settings. Plus you can check in on your home anytime.\n\nScan camera events quickly\nThe camera live view and history interface makes it easie"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 14,
+      "app_id": "723961236",
+      "name": "Booksy for Customers",
+      "artist": "Booksy",
+      "summary": "Self-care, on your schedule. Instantly book with your favorite beauty and wellness providers, anytime and anywhere.\n\nJoin over 50 million clients who use Booksy to find and book top-rated beauty and wellness professionals. Skip the phone tag and back-and-forth DMs. With Booksy, your next appointment is just a tap away.\n\nBOOK 24/7 ON YOUR SCHEDULE\nNo more waiting for a callback. Pick a service, view open slots, and lock in your spot in seconds. \n\nEASILY MANAGE YOUR OWN APPOINTMENTS\nPlans change, "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 15,
+      "app_id": "993504342",
+      "name": "LG ThinQ",
+      "artist": "LG Electronics, Inc.",
+      "summary": "Connect your IoT home appliances to the LG ThinQ app.\nEnjoy effortless product control, smart care, and convenient automation in one simple solution.\n\n■ Discover the convenience of smart home appliances through the Home tab.\n - Control your IoT home appliances from anywhere with our app.\n - Get personalized recommendations for managing appliances based on usage history.\n  - Find out ways to better make use of the app's features from \"\"Explore\"\"\n■ Upgrade your products and your living spaces from"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 1,
+      "app_id": "908126679",
+      "name": "ParentSquare",
+      "artist": "ParentSquare",
+      "summary": "What is ParentSquare?\n\nParentSquare helps schools and families stay connected and informed—all in one easy place. Whether it’s a quick message from a teacher, an important alert from the district, or a reminder about tomorrow’s field trip, ParentSquare makes sure families never miss a thing.\n\nWhy families and teachers love ParentSquare:\n\n• Simple, easy-to-use app and website\n• Messages are automatically translated into 190+ languages\n• Best-in-class safety and security practices\n• One place for "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 2,
+      "app_id": "480883488",
+      "name": "Canvas by Instructure",
+      "artist": "Instructure Inc.",
+      "summary": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and col"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 3,
+      "app_id": "552602056",
+      "name": "ClassDojo",
+      "artist": "ClassDojo, Inc.",
+      "summary": "It’s time to build better classrooms. \n\nClass Dojo is a game-changing platform designed for teachers, parents and kids. The end goal? Giving kids an education they love. Here’s how.\n\n* Teachers and parents can safely and easily communicate throughout the school day\n* Parents get photo and video updates from their child’s teacher, so they can feel like they’re there \n* Kids get fun learning content at school and at home \n* Everyone stays in the know on the latest and greatest school news and upda"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 4,
+      "app_id": "570060128",
+      "name": "Duolingo: Language Lessons",
+      "artist": "Duolingo",
+      "summary": "Learn a new language, chess & more with the world's most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening & writing to build your vocabulary & grammar skills.\n\nDesigned by learning experts & loved by hundreds of millions worldwide, our lessons make learning effective & fun and help you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English and"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 5,
+      "app_id": "924620788",
+      "name": "Google Classroom",
+      "artist": "Google",
+      "summary": "Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.\n\nClassroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google D"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 6,
+      "app_id": "6478287397",
+      "name": "Speak & Learn English: Learna",
+      "artist": "DEEP FLOW SOFTWARE SERVICES",
+      "summary": "Ready to Speak English Confidently? \n\nWelcome to Learna AI English Tutor App, your all-in-one solution for mastering the English language! Learn English with grammar, speaking, reading, pronunciation, and vocabulary practices designed to enhance your proficiency in every aspect of the language.\n\nWith Learna AI, you can speak English confidently and effectively through interactive conversations. Our app takes your language learning journey beyond traditional methods. Whether you're a beginner or "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 7,
+      "app_id": "522826277",
+      "name": "Remind: School Communication",
+      "artist": "ParentSquare",
+      "summary": "Remind is a communication platform that helps every student succeed. Whether you're in the classroom, at home, or anywhere in between, Remind makes it easy to stay connected to your school community.\n\n* Communicate in real time—on any device.\n* Keep personal contact information private.\n* Translate messages into more than 90 languages.\n* Share files, photos, and content from your favorite sites.\n\nJoin the millions of educators, students, and parents using Remind to manage school communication an"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 8,
+      "app_id": "973741088",
+      "name": "PowerSchool Mobile",
+      "artist": "PowerSchool Group LLC",
+      "summary": "Built for convenient access to real-time student information like grades, assignments, and attendance, the PowerSchool Mobile App provides enhanced functionality for parents, guardians, and students. \n• Get easy access to the most important student data with an updated user interface, dashboard, and improved app structure \n• Use new dashboard widgets for quick access to important information including: GPA, Class Overview, Assignments Due, Assignments Graded, Attendance, School Bulletins, Meal B"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 9,
+      "app_id": "1542571008",
+      "name": "Gauth: AI Study Companion",
+      "artist": "GAUTHTECH PTE. LTD.",
+      "summary": "Gauth is the premier AI study companion powered by advanced multi-model AI! Trusted by millions, Gauth provides comprehensive conceptual learning support across all subjects and grades. Experience a smarter way to master your studies and elevate your academic understanding today!\nKEY FEATURES\n► STEP-BY-STEP LEARNING GUIDANCE Master complex concepts with ease. Gauth AI provides detailed, step-by-step explanations and process guidance to clarify study concepts, helping you build a solid academic f"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 10,
+      "app_id": "1001688546",
+      "name": "Brightspace Pulse",
+      "artist": "D2L Corporation",
+      "summary": "Stay connected to learning anytime, anywhere with Brightspace Pulse.\n\nBrightspace Pulse gives learners and their authorized parents and guardians a convenient way to follow coursework, deadlines, progress, and important updates.\n\nLearners can:\n\n- Access their course content\n\n- View important dates and deadlines across their courses\n\n- Manage upcoming and overdue coursework\n\n- Receive notifications for Announcements, Grades, Quizzes, Assignments, Activity Feed posts, and more\n\n- Access supported "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 11,
+      "app_id": "899690067",
+      "name": "iClicker Student",
+      "artist": "HPHLP",
+      "summary": "iClicker's student app allows you to answer questions using your iPhone, iPad, or iPod Touch. Tap to provide your answer and receive instant feedback. Compare your vote to the rest of the class. After class, access the saved poll questions to study for a quiz or exam. All data is stored on the cloud so you can access it anywhere from any device.\n\nKEY FEATURES: \n• Free trial subscription with account creation \n• View your instructor’s questions as high resolution screenshots\n• Compare your respon"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 12,
+      "app_id": "1252497129",
+      "name": "PictureThis - Plant Identifier",
+      "artist": "Glority Global Group Ltd.",
+      "summary": "PictureThis® identifies millions of plants daily with over 98% accuracy, making plant care simple and accessible. Whether you're a seasoned gardener or a new plant parent, PictureThis is your essential tool for plant identification and care.\n\nKey Features:\nAccurate Plant Identifier\nRenowned as the best plant identification app, PictureThis can identify over 400,000 plant species with unparalleled accuracy. Simply take a picture, and our engine will instantly provide the plant's name and detailed"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 13,
+      "app_id": "902823296",
+      "name": "brightwheel: Child Care App",
+      "artist": "DSSV, Inc.",
+      "summary": "Brightwheel is an all-in-one childcare management software that saves time and simplifies operations for early education providers. \n\nFrom billing and parent communication to curriculum and admissions, it combines everything you need in one easy-to-use platform. \n\nTrusted by millions of educators and families and backed by a dedicated support team, brightwheel strengthens family connections and ensures seamless operations with reliable performance and robust security. \n\nWith brightwheel, you’ll "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 14,
+      "app_id": "1320244591",
+      "name": "FAMILIES | TalkingPoints",
+      "artist": "TalkingPoints Corp",
+      "summary": "TalkingPoints is a free application that lets you communicate with your children’s teachers and school. You will be able to send and receive messages through this application in your preferred language, because TalkingPoints will translate your message into English for teachers. Stay engaged and involved in your child’s learning by communicating and collaborating with their teacher and school using TalkingPoints!"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 15,
+      "app_id": "6504305881",
+      "name": "ParentVUE (New)",
+      "artist": "Edupoint Educational Systems",
+      "summary": "The ParentVUE mobile app helps parents stay informed and connected by providing day-to-day insight into the student’s academic experience. The mobile app works with Synergy® Student Information System (Synergy® SIS) in much the same way as the web portal, allowing parents to view student classroom assignments and scores, attendance, demographic information, and much more.\n\n • How to find your school district and login information • \n\n- The ParentVUE mobile app may request location permission to "
+    }
+  ],
+  "reviews": [
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Doesn’t work",
+      "content": "every single time I ask it something, it just loads forever and doesn’t give me an answer."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Restricted usage",
+      "content": "Used ChatGPT last week to make images but now I can only make one imagine. Says I am restricted for usage… seems odd that you can do several one day then only one another and have to wait 24hrs to make any changes…"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Hate it",
+      "content": "Whenever I ran out of plus ChatGPT would always treat me bad if I asked how to do something it would tell me the wrong answers and then start apologizing and saying it’s it’s fault and it happen every time."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Violating madness",
+      "content": "FIX AI NOW AND QUIT VIOLATING NON DIRTY PICTURES I’M MAKING\n\nWhoever is the guy who created generative AI, I’ll get you"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "That function",
+      "content": "It answers when you first start directly, but when you go to start talking, it interrupts you it won’t let you finish what you want to say and give you some other different answers"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Request for Account Credit Due to Repeated Service Failures",
+      "content": "I am requesting a credit to my ChatGPT Plus account due to repeated technical failures and usage limitations that prevented me from completing a significant document-management project.\n\nI was actively using ChatGPT to review, identify, rename, organize, and manage a large collection of important court documents in my ChatGPT Library. During this process, I experienced repeated failures involving the Library and file-management functions. Files that had already been uploaded and reviewed could not consistently be moved or organized. The system returned errors including “container_path was not found” and “shard not found.”\n\nThese were not isolated errors. They occurred repeatedly while I was actively working through the document collection. In some instances, ChatGPT successfully performed the exact same Library operations, while subsequent attempts failed because of apparent system-side problems.\n\nI then encountered usage/processing limitations while trying to complete the project, lea"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "تطبيق جات جبتي",
+      "content": "اول شي ما يخليكم تتكلمو كثير خلال صوره واحده ولازم يوم الثاني يلا تكدري تتكلمي نفس الاشئ كلمه كلمتين والصور كلها خطأ مطبعي يمديك بس تاخذي رائيه باشياء بسيطه بس ما انصح أدويه او أشياء"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "It's killing the earth",
+      "content": "Delete this app now be a cause they use 34 million gallons of water each day just to cool of their computer start using ecogpt they plant trees each download"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Awful",
+      "content": "In the middle of something important, you changed my age to underage and I couldn’t finish what I even joined ChatGPT for. So I’m out."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Changing phone nightmare",
+      "content": "This event will be hard for microsoft to live down.   Every day, many people change phones but are not warned that authenticator still goes to the old phone.   I have been without email for weeks."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "sucks.",
+      "content": "won’t let me sign into my account without a code from microsoft authenticator even tho i’m literally trying to sign in to get a code for something else. really annoying"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Pray you never get logged out",
+      "content": "The Authenticator app is great until you get logged out. For instance, if you get a new phone. The app puts you in an endless loop of asking you to sign in and then asking for a verification code FROM AUTHENTICATOR!!! Which you can’t get into because you are logged out. It just goes on and on asking for a code. And forget calling Microsoft support. You only get an AI chat bot who doesn’t know what product Authenticator is so she literally just hangs up on you. This is truly one of the most frustrating experiences of my life."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "This app is horrible",
+      "content": "This app is laborious, stupid, and should not exist. Just another way for Microsoft to ascertain sensitive data and biometric information in the name of “security”"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "What a joke",
+      "content": "I have to authenticate my Authenticator app which is impossible to do. And when I try calling the customer service number all I get is a robot and no matter what I say it always hangs up on me so I can’t even ever get a hold of a real person. I hate this app and the people who designed it."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Self referencing",
+      "content": "To reset Authenticator app it requires me to validate with the malfunctioning Authenticator app.   An endless do loop."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "a constant annoyance",
+      "content": "this app and its existence are the bane of mine. i do not care about keeping my student email “safe”, if you want to steal my paper that badly just do it man. we have come too far with technology return to monkey."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Abysmal security",
+      "content": "After requiring setup and cycling my password every 3 months. They still let hackers take my old account without the use of Authenticator. Customer service AI is some of the worst BS I’ve ever dealt with. \nFind something else"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Inconsistent",
+      "content": "I don’t know why companies continue to insist on using this when every other two factor authentication app is better and actually works."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Annoying",
+      "content": "Had to get this for school after using a very simple system before. This is far from simple. The process to link your email to the app is easy, but having to add Passkeys from the app and only be given the QR code sign in option is annoying when you cannot scan a QR code from your own phone!!! No way to make it so face ID is an option to sign in to things either."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Not user friendly",
+      "content": "Genuinely the worst app I have ever used to verify my identity. I have tried various methods of signing into my school account but it won’t let me because I need the code from the app that also needs the same code! It signed me out of the app and now I can’t sign back in without a a code which I can’t see because it won’t let me sign in."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Terrible",
+      "content": "This app is terrible and doesn’t let me in 90% of the time. By the time I’m in the app the verification window has closed. This is the only app in my phone with that problem so I don’t think it’s the phone. Don’t listen to the bot reviews this app is a waste of time."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "holy glaze",
+      "content": "i dont know one person who like this app, cant disable it, and most of the reviews look botted"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Awful experience",
+      "content": "Just got a new phone. Have 6 email accounts. Only 2 of them will establish in Authenticator. I have to turn in phone in two days. Have no idea how to resolve this."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Authenticate the Authenticator app with the Authenticator app…. An endless loop",
+      "content": "Authenticate the Authenticator app with the Authenticator app…. An endless loop you get stuck in when re-verifying your login. It’s so secure you can’t even access your own account! After numerous force closes I finally got alternative verification options."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Wish this app was better",
+      "content": "I hate that schools use this app. Duo is so much more convenient and easy to use. Tell me.. how on earth am I supposed to click on a number in my authentication app if I am in the authentication app??"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Don't do it",
+      "content": "You'll never be able to sign into your account the Authenticator app asks you to use the Authenticator app to sign in! Sends you on a loop!"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Login troubles",
+      "content": "Got a new iPhone and tried to log into my school account and personal account. My personal account worked fine. My school one needed me to enter a code when I couldn’t go back to the page where I could. It never would send me or show me a verification code. Wouldn’t even let me use the QR code when requested. I tried on my computer. Same thing. I clicked on where I couldn’t access my authenticator app then it would show me only two options of “approve a request on my Microsoft Authenticator App” or verification code. I didn’t find a solution until I had to deep dive and contact my schools IT department. I wish I could rate it 0. Doesn’t give you simple solutions or help at all."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Buggy",
+      "content": "I try to authenticate but it tried to authenticate for a different profile that I can’t delete off the app, even after uninstalling and reinstalling the app. And now the profile that I was trying to log into on the browser is logged off in the Authenticator app and is having me log into but it’s giving me a code for the Authenticator app to log into the authentication app which is pointless and unusable. Extremely dissatisfied and frustrated"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "DO NOT USE THIS!!! (READ MY REVIEW!)",
+      "content": "Listen people- this app hijacks your “security” and locks you out a LOT! Do not be fooled by their padded reviews! Go to their one star reviews or ask ChatGPT to tell you the downside of using this app!"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Medidas sin sentido",
+      "content": "No entiendo porque después de pedirme la clave de mi cuenta de inicio de sesión hay más medidas tan estúpidas y innecesarias como confirmar el número desde el móvil anterior o el código que llega al móvil anterior, entonces como es mi caso si uno vende el celular que carajo hace porque vaya aparte de que ya metí mi puta clave me pide eso y como vendí el otro celular entonces genial ya no puedo iniciar sesión que estúpida medida de mierda entonces para que la puta clave"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Authenticate the Authenticator",
+      "content": "Microsoft doesn’t let you log on your computer or other device because your phone magically has “signed you out” on Authenticator so you have to authenticate your Authenticator (not possible btw) Absolute BS. This happens 99.9% of the time that I use this stupid app."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "i’m going insane",
+      "content": "trying to get into my college email and it keeps telling me to open my app while i’m in the app. holy loop of doom this app is a burger"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Waste of time",
+      "content": "Mandated for use by my college, I need to access my schedule and accounts in a timely manner and I don’t have the time to go through 7 different tabs if I want to access an assignment"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Totally broken for days now",
+      "content": "I did everything I could to break out of this state where the app does not seem to understand that it is the app. I can’t go to another app; you are it, MS Authenticator. Maybe you should have it wrap okta, which works"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Impossible to log in",
+      "content": "Why would you tell me to enter a number from Microsoft Authenticator app to log into the Microsoft Authenticator app so I get locked into the loop of doom?!?"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Fuc ahh app",
+      "content": "This app may be the first piece of evidence to prove devolution. It gives you nothing burger codes that are only there to make you want to blow ur shi smoove off. If you want an app that’ll make you go clinically and mentally insane congrats you’ve found found it."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Worst App",
+      "content": "I’m locked out of my job account because my authenticator app is asking an authenticator app (itself) for a code which i don’t have because i can’t get into the account because it wants a code i can’t access haven’t been able to get into my account in 3 years"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Maybe Worst App",
+      "content": "Please do not download. This might be the worst app I’ve ever tried to use. Despite Googling and trying to figure out how it’s supposed to work, I cannot understand the use and it has never displayed the code or allowed me to sign into anything. I’ve tried downloading and signing in on three different devices and I’m not sure that I’ve properly signed into the app once. No trouble-shooting helps."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Awful to Use",
+      "content": "Save your time, protect your peace, do not download. I have tried to set this app up on multiple devices a few different times and it prompts me to sign in using another (non-existent) authenticator app. I can’t even tell if I’m signed in properly. This app feels both useless and frustrating. I can’t tell how it’s practically useful (despite Googling and trying to use it). This has been a bad experience."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "“Check your authentication app” FROM THE AUTHENTICATION APP",
+      "content": "I’m trying to log into my authenticator app and it’s prompting me to verify with the code… from my authenticator app. What poor design."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Confusing-Must Authenticate by Using Itself",
+      "content": "It wants you to authenticate yourself by sending a code to your Authenticator. How do you do that? It is chicken-egg problem."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "I would rate 0 if I could",
+      "content": "I’m trying to sign in stuff for school but the app has an error verifying it then it tells me to unadd the account and add it back in then to tells me I need the app to verify then it tells me a code to resent my password rather than join back in. I am on my second Microsoft account due to the 1st getting hacked and Microsoft support being no help. I plan on reading Microsoft’s policies because I am going to pursue a lawsuit against them for holding my personal email and phone number hostage, preventing me from using even the basics of their system, and for all the files I lost because the support refuses to delete the old hacked account despite themselves sending an email saying that it has been hacked. Microsoft acknowledges that’s my account has been hacked but refuses to do anything about it such as deleting it. Therefore holding my email and phone number hostage. Do yourselves a favor and just don’t Microsoft until they actually do better. Maybe bankrupting the company will make i"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Business Owner",
+      "content": "Please FIX the loop where a code from the authenticator app is required to setup the authenticator app. This is why monopolies are bad. So are p3rv3rt$ like B!11 G@tes."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Horrible app",
+      "content": "I have this app on my phone because two employers have required it. I can’t completely remove an email that I no longer have access to. I can’t sign in to the email that I currently use at my current job on the work. Computer because I can’t access the authenticator app while using it to get my verification code to sign in to my current work email. \nIt is an endless loop of frustration."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "DO NOT USE",
+      "content": "This authenticator makes it impossible to transfer authentications to another phone if you ever switch phones. You have  to do it manually again for EACH site/app, by logging in to each app and changing the security settings."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Sucks.",
+      "content": "This sucks I was trying to log in but you needed microsoft authenticator to log into microsoft authenticator? Wth microsoft fix this"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Says Open the App Enter Code When Already in the App",
+      "content": "Tell me, Microsoft, how I’m supposed to do this? \nShould not be this hard to login and use. Uninstalled, reinstalled and tried again, and I still cannot get in."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Let me use my watch",
+      "content": "Don’t just show that there is an authentication notification on my watch that I cannot do anything with, but rather let me approve the notification request using my Apple Watch.  Duo Security supports this, and the Microsoft product always makes me dig my phone out of my purse instead of allowing this led efficient mode of operation."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Poco funcional",
+      "content": "Con esta aplicación no deja ni si quiera avanzar a teams, solo me pide que introduzca el número en la aplicación cuando el número generado se dio en la propia aplicación, te hace perder tiempo y aparte espacio innecesario en tu teléfono, no sé por qué decidieron hacer esto con teams pero solo hace que batalle al ingresar desde mi celular"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Terrible",
+      "content": "Unneeded and has held up coworkers. It asks for me to sign into my work Microsoft account, but then it tells me to open Authenticator app to get the code. When that’s the app I’m literally trying to sign into. This has gone for months"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Authenticator",
+      "content": "It sucks when it forces you use Authenticator to log into Authenticator so what the heck are you supposed to do?"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Passkeys",
+      "content": "It’s like it doesn’t automatically just add it on it says that it’s not available"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Bug",
+      "content": "I am trying to get into my microdot account, the microdot Authenticator connected to the same account. Is is not sending notification."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Useless",
+      "content": "U forced me to download this app, and forced me to turn my notifications on. Just so i can login. Wont even let me use my google authenticator. Whoever is in charge fire them."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Stupid app",
+      "content": "I need this app for work and everyone I try and login to my account it says I need a code from the Authenticator app when I’m on the Authenticator app. It makes no sense I’ve deleted and uninstalled this app for months and it’s the same thing everytime it’s pointless."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "It shouldn’t be this hard",
+      "content": "I’m trying to get into my email account on a new phone, but when I try to log in, it sends me to this app, and then the app tells me to get a code from this same app, which is not being provided or not that I can find, and I can’t get out of that screen to get to a code anyway. Not able to load my work email on my computer there either because it keeps telling me to get some code from this app, again not provided. It’s like a circle of insanity. Lol. If my home computer logs me out of my email account, I’m screwed because I can’t find any sort of help to figure this app out."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Microsoft, Authenticator, Copilot and CEO sucks. Cloud 1st, mobile 1st(except no mobile) and Cx LAST",
+      "content": "Microsoft, Authenticator, Copilot and CEO sucks. Cloud 1st, mobile 1st(except no mobile) and Cx LAST"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "P.I.T.A.",
+      "content": "This app had me sign in on my work account then linked it to my personal account and when I try to log out so it was just my work account everything was gone!"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Most mind numbing experience ever",
+      "content": "If I could give 0 stars I would as I can’t get a code to log in when to get a code it’s telling me to log in😍"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Microsoft Authenticator",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Sucks idiotically made",
+      "content": "Can’t get my code to sign into the Microsoft account when I’m in the app can’t even use another way to sign in I have to use the app"
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "ProductHunt",
+      "title": "Video Agent by Fotor",
+      "summary": "<p>\n            Create and edit precision motion graphics & video with chat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fotor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1224981?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/fotor"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Tether",
+      "summary": "<p>\n            A ball for boring meetings to keep you busy\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tether-a-ball-for-boring-meetings?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1237132?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "EP–2350 FX–MIC",
+      "summary": "<p>\n            The programmable mic you can squeeze, shake & play\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1237061?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/teenage-engineering"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Interactive Sessions",
+      "summary": "<p>\n            Drive the full SDLC with AI agents, step by step\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/revolte?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225427?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/revolte"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Radar by Particle",
+      "summary": "<p>\n            The Podcast Search Engine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/particle-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235226?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/particle-5"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "StackScope",
+      "summary": "<p>\n            See what new sites are built with, the week they launch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stackscope-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1218252?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/stackscope-dev"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "BrandJet",
+      "summary": "<p>\n            Turn public buying signals into sales pipeline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226002?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/brandjet-ai"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Ask My Wardrobe",
+      "summary": "<p>\n            The complete digital wardrobe experience\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ask-my-wardrobe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1233229?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ask-my-wardrobe"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Orato",
+      "summary": "<p>\n            Practice speaking with AI.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235917?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/orato-speech-coach"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "BrandMyLaptop",
+      "summary": "<p>\n            Sell ad space on your laptop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/brandmylaptop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235109?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/brandmylaptop"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "WebTerm Learn",
+      "summary": "<p>\n            Learn the terminal like a game — in a browser sandbox\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/webterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1231542?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/webterm"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "FrameOS",
+      "summary": "<p>\n            Record your iOS & Android screen from your Mac.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/frameos-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235311?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/frameos-3"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Hyperfocus",
+      "summary": "<p>\n            Planner that turns goals into daily progress\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225037?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/hyperfocus-2"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Superagent",
+      "summary": "<p>\n            Claude Code for the rest of us\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1236134?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Edge Drop",
+      "summary": "<p>\n            Clipboard on your screen edge. Hover to open, drag to drop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/edge-drop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1229796?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/edge-drop"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Maritime",
+      "summary": "<p>\n            Dedicated computers for AI agents, starting at $1/month\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/maritime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235345?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/maritime"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Prequel",
+      "summary": "<p>\n            Create cinematic screen recordings on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prequel-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235626?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/prequel-2"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Topview Motion Studio",
+      "summary": "<p>\n            Create launch videos without touching After Effects\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/topview-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1233737?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/topview-ai"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "oMLX",
+      "summary": "<p>\n            Mac LLM server that cuts agent wait times from 90s to 5s\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/omlx?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1236055?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/omlx"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Olostep",
+      "summary": "<p>\n            Turn the Web into Clean Data for AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/olostep?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1199418?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/olostep"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Sayscroll",
+      "summary": "<p>\n            The AI Teleprompter that scrolls as you speak\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sayscroll-ai-teleprompter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226965?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/sayscroll-ai-teleprompter"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Retro Y2K Theme",
+      "summary": "<p>\n            Customize any website with a vintage 90s & Y2K retro theme\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/retro-y2k-theme-90s-web-aesthetic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1231013?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/retro-y2k-theme-90s-web-aesthetic"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "RIP MY BUILD",
+      "summary": "<p>\n            Give your abandoned side project one last launch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rip-my-build?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1231975?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/rip-my-build"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Referent",
+      "summary": "<p>\n            The AI-native OS for modern law firms\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/referent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1232856?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/referent"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Skud",
+      "summary": "<p>\n            Menubar file delivery with your brand and tracking\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skud-drag-send-track-in-seconds?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1234454?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/skud-drag-send-track-in-seconds"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Ravioli",
+      "summary": "<p>\n            Create custom stamp shapes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ravioli-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1231976?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ravioli-2"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Caplio",
+      "summary": "<p>\n            Find, organize, and reuse every image on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/caplio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225018?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/caplio"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Murfy AI",
+      "summary": "<p>\n            Write, review, and publish to arXiv 10x faster\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/murfy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1219033?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/murfy"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Ulpaso",
+      "summary": "<p>\n            Stop paying just to take meeting notes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ulpaso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1235219?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ulpaso"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Any Command",
+      "summary": "<p>\n            Turn your phone into a second screen and trackpad for PC\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/any-command-remote-control-for-pc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1230534?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/any-command-remote-control-for-pc"
+    }
+  ]
+}
