@@ -1,0 +1,1452 @@
+{
+  "date": "2026-11-02",
+  "reddit": [],
+  "hackernews": [
+    {
+      "source": "HackerNews",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "score": 1055,
+      "num_comments": 194,
+      "url": "https://hackerbooks.org"
+    },
+    {
+      "source": "HackerNews",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "score": 32,
+      "num_comments": 3,
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "score": 155,
+      "num_comments": 105,
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    },
+    {
+      "source": "HackerNews",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 2367,
+      "num_comments": 548,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "score": 199,
+      "num_comments": 357,
+      "url": "https://news.ycombinator.com/item?id=50328896"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "score": 33,
+      "num_comments": 8,
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 113,
+      "num_comments": 19,
+      "url": "https://github.com/raphlinus/nibnib"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Trigger.dev customer environment variables exposed",
+      "score": 24,
+      "num_comments": 1,
+      "url": "https://trigger.dev/blog/security-incident-nov-2026"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "score": 93,
+      "num_comments": 15,
+      "url": "https://nullprogram.com/blog/2025/02/05/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "score": 146,
+      "num_comments": 79,
+      "url": "https://tibleiz.net/copper/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "OccupySaaS",
+      "score": 124,
+      "num_comments": 77,
+      "url": "https://occupysaas.com/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "score": 185,
+      "num_comments": 44,
+      "url": "https://github.com/ivankovic/omnidiff"
+    },
+    {
+      "source": "HackerNews",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "score": 58,
+      "num_comments": 29,
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "score": 32,
+      "num_comments": 13,
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/"
+    },
+    {
+      "source": "HackerNews",
+      "title": "Mathematics has changed. Let's act like it",
+      "score": 246,
+      "num_comments": 276,
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+    }
+  ],
+  "appstore": [
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 1,
+      "app_id": "6760173601",
+      "name": "Muse from Meta",
+      "artist": "Meta Platforms, Inc.",
+      "summary": "Muse is your personal AI agent that gets things done, always working on what matters to you. It manages email, books dinners, tracks budgets, and finds deals, with your approval.\n\nPERSONAL PRODUCTIVITY\nMuse takes the busywork off your plate. It manages scheduling conflicts, books reservations, sets reminders, and follows up with people, so birthdays, plans, and deadlines don't slip. Stay on top of your calendar, email, and daily tasks without carrying it all in your head.\n\nSHOPPING & DEALS\nMuse "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 2,
+      "app_id": "6448311069",
+      "name": "ChatGPT",
+      "artist": "OpenAI OpCo, LLC",
+      "summary": "Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.\n\nThis official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.\n\nWith ChatGPT in your pocket, you’ll find:\n\n· Image generation–Generate original images from a description, or transform existing ones with a few simple words. \n· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 3,
+      "app_id": "6473753684",
+      "name": "Claude by Anthropic",
+      "artist": "Anthropic PBC",
+      "summary": "Meet Claude, your AI problem solver and thinking partner. Claude works with you to write, research, code, and tackle complex problems and hard questions with depth and precision. It enhances your thinking and expands what you're capable of, right from your phone.\n\nAI WRITING ASSISTANT \n\nTurn rough ideas into polished work. Whether you're crafting social media posts, professional emails, or complex reports, Claude refines tone, structure, and clarity, iterating with you until your voice comes thr"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 4,
+      "app_id": "6477489729",
+      "name": "Google Gemini",
+      "artist": "Google",
+      "summary": "From your morning commute to late-night deep dives, Google Gemini is your personal, proactive and powerful AI assistant.\n\nWHY USERS LOVE GEMINI\n• Our latest models, Gemini 3.8 Flash and Gemini Omni, unlock a new world of productivity and creativity.\n• Gemini Spark 24/7 personal AI agent proactively manages tasks and helps you navigate your digital life, all under your direction.\n• Daily Brief agent gives you a personalized morning brief and organizes exactly what you need to know to start your d"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 5,
+      "app_id": "422689480",
+      "name": "Gmail - Email by Google",
+      "artist": "Google",
+      "summary": "The official Gmail app brings the best of Gmail to your iPhone and iPad with helpful AI features, robust security, real-time notifications, multiple account support, and intelligent search that works across all your mail.\n\nWith the Gmail app, you can:\n• Make Gmail your default email app on iOS\n• Stay up to date on your latest packages, upcoming events, bills, and travel details with helpful summary cards\n• Declutter your inbox with built-in email subscription management\n• Use Gemini* in Gmail to"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 6,
+      "app_id": "6670324846",
+      "name": "Grok",
+      "artist": "X Corp.",
+      "summary": "Grok is a powerful AI assistant developed by SpaceXSI. Designed to be maximally truthful, useful, and curious, Grok helps you get better answers, create faster, and understand the world in real time. Whether you need intelligent conversation, advanced research, coding help, or high-quality image and video generation, Grok delivers.\n\nAI Assistant\nAsk anything and get fast, well-reasoned replies. Have Grok do deep research on the web, solve complex problems in math, science, and coding, or analyze"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 7,
+      "app_id": "541164041",
+      "name": "Microsoft Copilot",
+      "artist": "Microsoft Corporation",
+      "summary": "The Microsoft Copilot app is the AI built for work. Copilot helps you keep your work moving, from early ideas to finished documents, presentations, and more. Whether you're creating content, managing projects, organizing your day, or finding information, Copilot helps you get more done from one place.\n\nCopilot connects to Word, Excel, PowerPoint, Outlook, Teams, and more, bringing the files and information you use into one place. Create polished documents, presentations, and spreadsheets, summar"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 8,
+      "app_id": "6794501026",
+      "name": "Grok Bot",
+      "artist": "X Corp.",
+      "summary": "Meet Grok Bot, AI teammates and AI coworkers you can hand real work to. Grok Bots sign in, work across your tools and websites, and keep going even after you close your laptop. \n\nMessage an AI agent from iPhone or desktop like a coworker, and it takes projects from start to finish instead of leaving you with another chat draft.\n\nGROK BOT WORKS WHERE YOU WORK\nLog Grok Bot in once. It uses your apps and websites just like you would, including tools that are harder to navigate: vendor portals, ad m"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 9,
+      "app_id": "507874739",
+      "name": "Google Drive",
+      "artist": "Google",
+      "summary": "Google Drive lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Scan and upload paper documents using your device’s camera\n• Quickly access recent and important files\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 10,
+      "app_id": "1558240027",
+      "name": "Meta AI",
+      "artist": "Meta Platforms, Inc.",
+      "summary": "Meta AI is your personal AI assistant — connected to the world, but rooted in yours. It answers, creates, and helps get things done.\n\n• Do more: Meta AI can take on bigger tasks—get daily briefings and reminders, stay on top of your email and calendar, build shopping lists, track workout plans, and more.\n\n• Get creative: Create and edit images with Meta Al's newest image generation capabilities. Use presets inspired by trending styles or easily create your own. Easily edit photos just by sketchi"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 11,
+      "app_id": "1370293473",
+      "name": "VPN - Super Unlimited Proxy",
+      "artist": "Mobile Jump Pte Ltd",
+      "summary": "VPN - Super Unlimited Proxy is a free VPN and proxy app for iPhone, iPad, Mac and Apple Vision Pro. Connect in one tap and enjoy unlimited bandwidth and fast speeds, no account or sign-up required. Optional Premium plans add 10Gbps speeds, streaming-optimized servers, and more server locations. With 1B+ downloads, VPN Super is built for everyday browsing, streaming, gaming, and staying protected on public WiFi.\n\nFREE VPN FEATURES\n- Unlimited VPN: no time limits or usage caps\n- 40+ free server lo"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 12,
+      "app_id": "983156458",
+      "name": "Microsoft Authenticator",
+      "artist": "Microsoft Corporation",
+      "summary": "Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.\n\nGetting started with multi-factor authentication\n\nMulti factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 13,
+      "app_id": "842842640",
+      "name": "Google Docs",
+      "artist": "Google",
+      "summary": "Create, edit, and collaborate on online documents with the Google Docs app.\n\nWork together in real time\n• Share documents with your team\n• Edit, comment, and add action items in real time\n\nCreate anywhere, anytime—even offline\n• Capture spontaneous ideas on the fly\n• Get things done, even on the go, with offline mode\n• Save time and add polish with easy-to-use templates\n\nEdit and share multiple file types\n• Open a variety of files, including Microsoft Word files, right in Google Docs\n• Frictionl"
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 14,
+      "app_id": "6443686328",
+      "name": "Link to Windows",
+      "artist": "Microsoft Corporation",
+      "summary": "You love your phone. So does your PC. Get instant access to everything you love on your phone, right from your PC. To get started, connect your iPhone with the Phone Link Feature on your Windows PC.\r\n Enjoy these Phone Link features on your PC: \r\n\r\n • Make and receive calls\r\n • Manage your phone's notifications \r\n • Read and reply to text messages\r\n • View your phone contacts\r\n • Share files between your phone and PC \r\n\r\nPhone Link for iOS requires iPhone running iOS 16 or higher, and a PC with "
+    },
+    {
+      "source": "AppStore-Productivity",
+      "genre": "Productivity",
+      "rank": 15,
+      "app_id": "577586159",
+      "name": "Yahoo Mail: Your Email & Inbox",
+      "artist": "Yahoo",
+      "summary": "YAHOO MAIL: THE SMART INBOX DESIGNED TO SIMPLIFY YOUR LIFE \nYahoo Mail is the ultimate smart inbox and advanced email organizer, built to simplify your life and get more done in less time. It’s simple to use, lightning fast, and features top-notch security to keep your account secure and your privacy protected against spam and phishing.\n\nNEW: STAY ORGANIZED WITH SPACES\nStop searching for what matters. Spaces keeps everything for your trips, your family, and your finances in one place, so you can"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 1,
+      "app_id": "284815942",
+      "name": "Google",
+      "artist": "Google",
+      "summary": "Download the Google app to find quick answers, explore your interests, and ask anything on your mind in any way. Try AI in Google Search with AI Mode, Lens, Search Live, and more.\n\nFeature highlights*:\n\n• AI Mode: Get AI-powered responses to your toughest questions with AI Mode–talk, type, or snap a photo to get started, and ask follow-up questions to dig deeper. You’ll continue to see a range of helpful links so you can keep exploring across the web.\n• Google Lens: See something you like? Snap "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 2,
+      "app_id": "535886823",
+      "name": "Google Chrome",
+      "artist": "Google",
+      "summary": "Chrome helps you do what’s possible on the web. Download the fast, secure browser by Google.\n\nGET THE BEST OF GOOGLE IN CHROME\n\n• SEARCH WITH GOOGLE - Search and get answers on Google fast. Use your voice to search hands-free.\n• GOOGLE LENS - Search what you see on your screen or with your camera.\n• GOOGLE TRANSLATE - Explore the web in 130+ languages. Translate entire sites in one click.\n\nBROWSE WITH BEST-IN-CLASS SECURITY\n\n• ENHANCED PROTECTION MODE - Browse confidently with the highest level "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 3,
+      "app_id": "1510944943",
+      "name": "Cleanup: Phone Storage Cleaner",
+      "artist": "DEEP FLOW SOFTWARE SERVICES",
+      "summary": "Clean up your iPhone and optimize storage in seconds. \n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam an"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 4,
+      "app_id": "1539090879",
+      "name": "TV Remote - Universal Control",
+      "artist": "EVOLLY.APP",
+      "summary": "TV Remote is the ultimate solution for controlling your Smart TV from the comfort of your phone. With its easy-to-use interface and compatibility with various TV brands such as Samsung, Roku, LG, Sony, FireTV, AndroidTV, Vizio, and Hisense, this app lets you take charge of your TV viewing experience. You can connect your device to your TV via WIFI, and enjoy full control of your TV functions, including volume, channels, input sources, and more, right from your mobile device. Whether you're watch"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 5,
+      "app_id": "388497605",
+      "name": "Google Authenticator",
+      "artist": "Google",
+      "summary": "Google Authenticator adds an extra layer of security to your online accounts by adding a second step of verification when you sign in. This means that in addition to your password, you'll also need to enter a code that is generated by the Google Authenticator app on your phone.\n\nThe verification code can be generated by the Google Authenticator app on your phone, even if you don't have a network or cellular connection.\n\n• Sync your Authenticator codes to your Google Account and across your devic"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 6,
+      "app_id": "6504287215",
+      "name": "Happ - Proxy Utility",
+      "artist": "Flyfrog LLC",
+      "summary": "Important Notice\nHapp does not sell or provide VPN services. Beware of scammers claiming to offer “official Happ VPNs” — they are not affiliated with us. Users must set up their own servers and follow local laws when using the app.\n\nHapp is a mobile app that makes using proxy and vpn servers easy, offering a user-friendly interface and useful features.\n\nMain functionalities include:\n\nConfiguration of proxies based on rules.\nSupport for multiple protocol types.\nHidden subscriptions.\nEncrypted sub"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 7,
+      "app_id": "1395696823",
+      "name": "Govee Home",
+      "artist": "Shenzhen Intellirocks Tech Co. Ltd.",
+      "summary": "Govee Home is an app to help you manage your smart devices.\n-Check the status of your device in real time\n-Connect new devices in seconds\n-Enjoy the artistry & magic of lighting effects\n-Get a first look at new tech and share your ideas\n-Fast and efficient customer service\n\n[HealthKit]\n-GoveeHome has integrated with HealthKit. You may choose to sync your weight, BMI and body fat percentage data to Apple Health.\n-GoveeHome does not obtain or retrieve any data from Apple Health."
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 8,
+      "app_id": "416023011",
+      "name": "My Verizon",
+      "artist": "Verizon Wireless",
+      "summary": "Meet the My Verizon app. It’s everything Verizon, all in one place. Launch the app and get your latest personalized view of customizable shortcuts, your current balance, bill savings, perks, offers and more. And to find what you’re looking for faster, switch between different app sections using the tab bar. \n\nWhat’s inside:\nThere’s loyalty you’ll love, featuring Verizon Shine for daily drops, epic experiences and more. Plus, opt in to start scoring 3% cash back every single month with Verizon Do"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 9,
+      "app_id": "1130498044",
+      "name": "Apple Support",
+      "artist": "Apple",
+      "summary": "Need help? Get the support you need for the Apple products you love—all in one place. Apple Support gives you personalized access to solutions for all of your Apple products and services. Learn how to manage your subscriptions, reset your Apple Account password, and more. Chat with us to troubleshoot an issue, or get guided, step-by-step solutions to resolve it yourself. And if you decide to visit the Genius Bar or an Apple Authorized Service Provider, Apple Support can help you find a nearby st"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 10,
+      "app_id": "1437005085",
+      "name": "Proton VPN: Fast & Secure",
+      "artist": "Proton AG",
+      "summary": "Trusted by millions worldwide, Proton VPN is the world's only free VPN app that is safe to use and respects your privacy. \n\nOur fast VPN offers secure, private and encrypted internet access with advanced security features. Proton VPN also unblocks access to popular websites and streaming platforms.\n\nProton VPN was created by the CERN scientists behind Proton Mail - the world's largest encrypted email service.\n\nProton’s secure no-logs VPN offers 24/7 safe and private internet access, and does not"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 11,
+      "app_id": "309172177",
+      "name": "AT&T",
+      "artist": "AT&T Services, Inc.",
+      "summary": "One app, every connection. The all-new AT&T app gives you unprecedented access, control, and insight with a sleek, reimagined interface. \n\nShop our best deals, pay your bill, manage your account and connections, and get help when you need it. A powerful AI assistant is always available to answer questions, resolve issues, and guide you to the right plans, devices, and upgrades.\n\nWith clear visibility into your network, you can track data usage, locate a device, refresh your connection, manage do"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 12,
+      "app_id": "1178765645",
+      "name": "Xfinity",
+      "artist": "Comcast",
+      "summary": "Your Xfinity experience, enhanced.\n\nEasily manage all your services in one place with the Xfinity app. Plus discover the power of NOW.\n\nNOW is a simple new way to get internet and mobile. It’s just what you want, and nothing you don’t. With all-in monthly pricing. Backed by Xfinity.\n\nXfinity customers also get:\n\n•\t24/7 real-time support anytime you need it.\n•\tTools to help you seamlessly activate your equipment and test your internet speed.\n•\tXfinity Rewards. Enjoy special perks, unique experien"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 13,
+      "app_id": "1013961111",
+      "name": "Blink Home Monitor",
+      "artist": "Immedia Semiconductor",
+      "summary": "Get more value, simplicity, and convenience with Blink smart home security. See and speak to people and pets, right from the Blink app with features like HD live view, infrared night vision, and crisp two-way audio. Connect to an Alexa-enabled device to engage live view, arm and disarm your system, and more using your voice. Plus, use the Blink app to customize motion alerts, and set activity and privacy zones, so you only get notified about the activity you care about. With wired, plug-in, and "
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 14,
+      "app_id": "942608209",
+      "name": "My Spectrum",
+      "artist": "Charter Communications",
+      "summary": "One app – all your services! We’ve made it even easier for residential customers to sign in and manage your Spectrum account with My Spectrum App.\n\n\nPay Your Spectrum Bill\n•\tPay your bill for Spectrum Mobile, Internet, TV and Home Phone.\n•\tEnroll in Auto Pay: Never miss a billing due date.\n•\tSchedule one-time payments: Control how and when your Spectrum payment is sent.\n•\tSign-up for paperless billing.\n•\tFind statements: Review previous billing statements and service history.\n\n\n\nDo You Speak Spa"
+    },
+    {
+      "source": "AppStore-Utilities",
+      "genre": "Utilities",
+      "rank": 15,
+      "app_id": "1439422220",
+      "name": "Universal TV Remote ·",
+      "artist": "KRAFTWERK 9 LTD",
+      "summary": "Universal Remote supports hundreds of models with various operating systems and screen resolutions, ranging from basic models no longer in manufacture to 2021 novelties with the most powerful hardware.\n\nThe remote differs depending on not only the Smart TV manufacturer but also the type of operating system. \n\nTouchpad Instead of Buttons. We are confident that navigation with swipe gestures is much more convenient than by pressing regular \"down\" or \"right\" buttons, not distracting you from the mo"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 1,
+      "app_id": "426826309",
+      "name": "Strava: Run, Bike, Walk",
+      "artist": "Strava, Inc.",
+      "summary": "*App Store Award Winner -Apple Watch App of the Year*\n\nStrava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:\n\n• Record everything – runs, rides, hikes, yoga and over 50+ other sport types. Think of Strava as the homebase of your movement.\n\n• See the full story of your strength training – Lifting in the gym weekly, doing HIIT workouts, and showing up to your group weight training classes? Use your favorite device "
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 2,
+      "app_id": "1038369065",
+      "name": "Flo Cycle & Period Tracker",
+      "artist": "FLO HEALTH UK LIMITED",
+      "summary": "Flo Health is a science-backed cycle, ovulation, pregnancy, and period tracker with over 570 million downloads worldwide.*\n\nTrack your period (regular or irregular), predict ovulation, learn to spot fertile signs, follow your baby’s growth with Flo Health’s pregnancy tracker, and explore common perimenopause symptoms. Flo Health is here to support your menstrual cycle and female health journey.\n\nIs my data safe with Flo Health?\nFlo Health is the first and only period tracking app with two certif"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 3,
+      "app_id": "399857015",
+      "name": "Planet Fitness",
+      "artist": "Planet Fitness Holdings, LLC",
+      "summary": "Welcome to the Planet Fitness App \n\nThe PF app is the ultimate companion for your fitness journey, designed with your goals in mind to guide your workout experience both in and outside of the Club. We believe fitness should be accessible for all, which is why both non-members and members have access to a library of on-demand routines and workout videos, helpful exercise tutorials for extra guidance, detailed activity tracking, and a personalized Fitness Profile to celebrate your wins. You can ev"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 4,
+      "app_id": "1502936453",
+      "name": "LADDER Strength Training Plans",
+      "artist": "Ladder Technologies, Inc.",
+      "summary": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health 2026 Best Overall\nCNET 2026 Best Strength Training App\n\nLadder gives you a structured, coach-built workout plan for every day — new each week, easy to follow, and designed for home or gym. No more guesswork, no more showing up not knowing what to do.\n\nA NEW WORKOUT PLAN EVERY DAY — Structured progre"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 5,
+      "app_id": "1092799236",
+      "name": "Yuka - Food & Cosmetic Scanner",
+      "artist": "Yuca",
+      "summary": "◆ 85 MILLION USERS ◆\n\nYuka is a free mobile app that allows you to scan the barcodes of food and personal care products and instantly see their impact on your health. A rating and detailed information help you understand the analysis of each product.\n\nWhen a product has a negative impact on your health, Yuka also recommends similar but healthier alternative products.\n\n◆ A 100% INDEPENDENT PROJECT ◆\n\nYuka is a 100% independent project : product reviews and recommendations of healthier alternative"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 6,
+      "app_id": "6752903766",
+      "name": "Exposr - Food Product Scanner",
+      "artist": "Nagia LLC",
+      "summary": "Take control of what you and your family are eating.\n\nExposr is the food scanner app designed to help you uncover hidden ingredients, avoid harmful additives and seed oils, and make smarter choices every time you shop. Whether you want to reduce processed foods or find cleaner alternatives, Exposr gives you the clarity you need to build lasting healthy habits.\n\n**WHY PEOPLE TRUST EXPOSR**\n\nEXPOSE UNHEALTHY FOODS\nScan products in seconds and reveal what’s really inside. Exposr analyzes additives,"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 7,
+      "app_id": "6738506984",
+      "name": "Scrambly: Earn Money Walking",
+      "artist": "Scrambly",
+      "summary": "Scrambly is a walking rewards app that helps people earn cash and gift card rewards from their daily steps. Track your movement, reach step goals, join challenges, and turn everyday activity into rewards.\n\nWhether you’re walking to work, running errands, taking a daily walk, or simply trying to stay more active, Scrambly gives your steps more value.\n\nEARN REWARDS FOR WALKING\nEarn points from the steps you already take throughout your day. Keep your phone with you, track your movement, and build "
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 8,
+      "app_id": "6746144481",
+      "name": "MenuFit - Healthy Eating Out",
+      "artist": "Kosco Digital LLC",
+      "summary": "MenuFit is your personalized guide to eating out without sacrificing your goals. Whether you’re cutting or bulking, we tell you exactly what to order at every restaurant — fast food, dine-in, or even bars.\n\n• Discover the best meals for your goals\n• Get meal suggestions from any kind of restaurants\n• Instantly find what to order and what to avoid\n• Personalized by your preferences, goals, and dietary needs\n• Works even if the menu has no calories or macros listed\n• Get options for food and drink"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 9,
+      "app_id": "1453884781",
+      "name": "RISE: Sleep Tracker",
+      "artist": "Rise Science Inc",
+      "summary": "Join over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 10,
+      "app_id": "1454213029",
+      "name": "WeWard - Walking Rewards App",
+      "artist": "WEWARD",
+      "summary": "Transform your walking into winning as you step count with WeWard. Walking is great for your health, and your steps are worth more than you think.WeWarders walk 24% more on average—your body will thank you! Whether you're walking to stay fit, earn rewards, or give back to causes you love, every step counts. \n\nJoin 20 million WeWarders already tracking their progress and staying in shape with every step. Cash out rewards, redeem gifts and exclusive deals, or use your rewards to support charities."
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 11,
+      "app_id": "979101825",
+      "name": "StepUp Pedometer Step Counter",
+      "artist": "Pratik Stephen",
+      "summary": "StepUp makes walking surprisingly fun with friends!\nHit your goals, build streaks, join challenges, cheer each other on and walk more together!\n\nAnd StepUp is completely FREE!\nNo subscription needed. No features locked behind paywalls.\n\nTRACK YOUR ACTIVITY\n- Automatically track steps, distance, floors & calories burned\n- Use just your phone, or sync with wearables\n- See daily, weekly, monthly & yearly progress\n- Step up solo or with friends, whatever moves you!\n\nBETTER WITH FRIENDS\n- Get family,"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 12,
+      "app_id": "6480417616",
+      "name": "Cal AI - Calorie Tracker",
+      "artist": "Viral Development LLC",
+      "summary": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.\n\nWe aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.\n\nIf you have any ideas or questions"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 13,
+      "app_id": "1638253339",
+      "name": "AHEALTH: Get Healthy Get Paid",
+      "artist": "Gravity Labs Co., Ltd.",
+      "summary": "Moneywalk, the global app with 8 million downloads worldwide, is now AHEALTH.\t\t\t\t\t\nAHEALTH stands for All for your Health\t\t\t\t\t\nWe help you build healthy habits, and reward you for keeping them.\t\t\t\t\t\n\t\t\t\t\t\n■ The more you use the app, the younger you get every day\t\t\t\t\t\nHave you ever imagined getting younger each day?\t\t\t\t\t\nKeep up with the healthy habits AHEALTH recommends for you.\t\t\t\t\t\nAHEALTH will help you enjoy a healthy, happy life for years to come.\t\t\t\t\t\n\t\t\t\t\t\n■ Find out your bio age\t\t\t\t\t\nYour"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 14,
+      "app_id": "1528595748",
+      "name": "Finch: Self-Care Pet",
+      "artist": "Finch Care Public Benefit Corporation",
+      "summary": "Meet your new self-care best friend! Finch is a self-care pet app that helps you feel prepared and positive, one day at a time. Take care of your pet by taking care of yourself! Choose from a wide variety of self-care exercises personalized for you.\n\nTHE BEST DAILY SELF-CARE APP\n\nStruggling with stress, mental health, or need motivation? Is self-care a chore? Finch makes self-care finally feel rewarding, lightweight, and fun. Complete quick self-care exercises to grow your pet, earn rewards, and"
+    },
+    {
+      "source": "AppStore-HealthFitness",
+      "genre": "HealthFitness",
+      "rank": 15,
+      "app_id": "1043837948",
+      "name": "Oura",
+      "artist": "Oura Health Oy",
+      "summary": "Meet Oura Ring - the revolutionary smart ring that translates your body’s most meaningful messages to transform how you feel every day. \n\nThe award-winning Oura App is your personal health companion, delivering valuable insights and daily recommendations to help you to make health and wellness a daily practice. \n\nTHREE DAILY SCORES\nYour Sleep, Activity, and Readiness scores give you a clear understanding of the state of your body with actionable guidance on how to stay balanced.\n\nACCURATE BY DES"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 1,
+      "app_id": "1605170923",
+      "name": "GoWish - Your Digital Wishlist",
+      "artist": "Onskeskyen ApS",
+      "summary": "What can GoWish be used for?\nGoWish is your digital wishlist, where you can create and save all your wishes in one place. Download the GoWish app, create a profile, and add wishes that you can easily share with all your friends. The app makes it easy for your friends and family to reserve and purchase your wishes.\n\nWith the app, you can create your gift wishes wherever you are. You can add wishes to your wishlists from any online store in the world - there are no limitations.\n\nAlso, use the app "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 2,
+      "app_id": "1662982304",
+      "name": "Partiful: Party Invite Maker",
+      "artist": "Partiful",
+      "summary": "The easiest way to plan and discover social events. Create free event invite pages, send text updates, sell tickets, and find the best events near you.\n\nACTUALLY FUN EVENT PAGES\n- Create pages for any event — birthdays, pregames, dinners, game nights, watch parties, group trips, bachelor/bachelorettes, weddings, and more\n- Make it aesthetic with page themes, effects, and event posters—or upload your own\n- Guests can see who else is going and add comments, GIFs, and photos to the page\n\nINVITE FRI"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 3,
+      "app_id": "429047995",
+      "name": "Pinterest",
+      "artist": "Pinterest, Inc.",
+      "summary": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? \n\nIt's Possible."
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 4,
+      "app_id": "1111876388",
+      "name": "T-Life",
+      "artist": "T-Mobile",
+      "summary": "Whether you’re shopping, managing your account and devices, looking for a new plan, or snagging exclusive benefits, start with the T-Life app.  \n\n•\tShopping for a new device? Shop our widest selection without leaving your couch.\n•\tAccess exclusive benefits including Netflix On Us and savings on travel and dining.\n•\tGet freebies, fun perks, and a chance at epic prizes on T-Mobile Tuesday.\n•\tTry the Best Network and some of our favorite benefits for 30 days. For free. \n•\tSwitch to T-Mobile. Check "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 5,
+      "app_id": "1222822904",
+      "name": "SmartThings",
+      "artist": "Samsung Electronics Co., Ltd.",
+      "summary": "Quickly and easily connect and control your smart home devices through SmartThings.\nSmartThings is compatible with 100s of smart home brands. So, you can control all of your smart home gadgets in one place, including your Samsung Smart TV and smart home appliances.\nWith SmartThings, you can connect, monitor and control multiple smart home devices quicker and easier. Connect your Samsung smart TVs, smart appliances, smart speakers and brands like Ring, Nest and Philips Hue - all from one app.\nThe"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 6,
+      "app_id": "926252661",
+      "name": "Ring - Always Home",
+      "artist": "Ring.com",
+      "summary": "Know what’s happening at home from wherever you are with Ring Video Doorbells, Security Cameras and Alarm systems, and Smart Lights. Ring Doorbells and Cameras can send you instant alerts when someone’s at your door or motion is detected. Keep an eye on what matters with live HD video and greet visitors with Two-Way Talk. With a Ring Protect subscription (or free trial), you can review, save, and share Ring videos.\n\nRing Smart Lights let you control and schedule lighting easily. Some models can "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 7,
+      "app_id": "547702041",
+      "name": "Tinder Dating App: Date & Chat",
+      "artist": "Tinder LLC",
+      "summary": "Tinder is the place to meet someone new and see where a spark might lead. With millions of people nearby and around the world, Tinder makes dating fun and helps you find someone who matches your vibe, interests, and intentions.\n\nHOW IT WORKS\nMeeting new people on Tinder feels easy and natural. Every match is a chance to meet someone interesting and enjoy the kind of dating experience that feels fun, relaxed, and right for you. Conversations unfold at your pace and help you figure out who you gen"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 8,
+      "app_id": "1450175505",
+      "name": "Giftful - Wishlist & Registry",
+      "artist": "Giftful LLC",
+      "summary": "Giftful: Your Wishlist for Everything\n\nSave everything you want, discover your next favorite find, and share wishlists with the people who matter most.\n\nGiftful is the universal wishlist and shopping companion that lets you save products from any store, organize ideas for every part of your life, compare prices, discover inspiration, and share lists with friends and family. Whether you’re planning your next purchase, creating a holiday wishlist, or building a wedding or baby registry, Giftful ke"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 9,
+      "app_id": "595287172",
+      "name": "Hinge Dating App: Match & Date",
+      "artist": "Hinge, Inc.",
+      "summary": "HINGE, DESIGNED TO BE DELETED\nHinge is the dating app for people who want to get off of dating apps. With profiles that show your personality through text, photos, video, and voice, you have unique conversations that lead to great dates. \n\nHOW WE GET YOU OFF HINGE\nWhen it comes to online dating, people are so busy matching that they’re not actually connecting, in person, where it counts. Hinge is on a mission to change that. So we built an app that’s designed to be deleted. Here’s how:\n\n* We qui"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 10,
+      "app_id": "6505107527",
+      "name": "Listful - Wishlist Maker",
+      "artist": "Listful LLC",
+      "summary": "You have 47 things you want and zero idea where you saved any of them. Listful is the one place that actually keeps track of it all.\n\nAdd anything from any store. Amazon, Sephora, Urban Outfitters, Abercrombie, Adidas, IKEA. If it's sold online, you can add it. Build one list or a dozen, arrange them exactly how you want, and make something that actually looks good. Share it with one link. That's it.\n\nWHY PEOPLE SWITCH TO LISTFUL\nMost people are juggling gift ideas across their Notes app, random"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 11,
+      "app_id": "310738695",
+      "name": "Zillow Real Estate & Rentals",
+      "artist": "Zillow.com",
+      "summary": "Find your new home to buy or rent with expert real estate tools and millions of listings right at your fingertips. Seamlessly save, search, and share home listings and apartment rentals – all on the Zillow app. \n\nThe Zillow app puts essential real estate tools and experts at your fingertips, no matter where you are in your home search. Create a personalized plan, save and share homes with your partner in a shared collection, and stay organized every step of the way. Make your home search easier "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 12,
+      "app_id": "944011620",
+      "name": "Amazon Alexa",
+      "artist": "AMZN Mobile LLC",
+      "summary": "Use the Amazon Alexa app to manage Alexa-enabled devices, control music playback, view shopping lists on the go, keep track of upcoming reminders, check on active timers and much more. When you enable hands-free with Alexa, you can talk to Alexa by simply saying “Alexa” when the app is on your screen. The more you use Alexa, the more she adapts to your voice, vocabulary and personal preferences.\n\nDISCOVER MORE\n• Get more out of your Echo device through personalized feature recommendations from A"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 13,
+      "app_id": "456282559",
+      "name": "myQ Garage & Access Control",
+      "artist": "The Chamberlain Group, Inc.",
+      "summary": "The myQ smart access app allows you to seamlessly open, close and monitor your garage door, commercial door, or gate from ANYWHERE. The app supports myQ-enabled products from leading garage door manufacturers including Chamberlain and LiftMaster. myQ helps you keep your home or business safe and secure.  \r\n\r\n \r\n\r\nWith the myQ Smart Garage Camera, you can keep an eye on your home’s busiest access point. myQ lets you know who’s coming and going, alerting you when someone is detected. With a video "
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 14,
+      "app_id": "680819774",
+      "name": "Google Home",
+      "artist": "Google",
+      "summary": "The Google Home app helps you get the most out of Gemini for Home.\n\nSee your home at a glance\nThe Google Home app is designed to show you the status of your home and keep you up to date with what you may have missed.\n\nKeep up with what’s important\nUpdated design and streamlined organization help you group your devices into dashboards and easily navigate your settings. Plus you can check in on your home anytime.\n\nScan camera events quickly\nThe camera live view and history interface makes it easie"
+    },
+    {
+      "source": "AppStore-Lifestyle",
+      "genre": "Lifestyle",
+      "rank": 15,
+      "app_id": "993504342",
+      "name": "LG ThinQ",
+      "artist": "LG Electronics, Inc.",
+      "summary": "Connect your IoT home appliances to the LG ThinQ app.\nEnjoy effortless product control, smart care, and convenient automation in one simple solution.\n\n■ Discover the convenience of smart home appliances through the Home tab.\n - Control your IoT home appliances from anywhere with our app.\n - Get personalized recommendations for managing appliances based on usage history.\n  - Find out ways to better make use of the app's features from \"\"Explore\"\"\n■ Upgrade your products and your living spaces from"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 1,
+      "app_id": "570060128",
+      "name": "Duolingo: Learn Languages",
+      "artist": "Duolingo",
+      "summary": "Learn a new language, chess & more with the world's most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening & writing to build your vocabulary & grammar skills.\n\nDesigned by learning experts & loved by hundreds of millions worldwide, our lessons make learning effective & fun and help you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English and"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 2,
+      "app_id": "6478287397",
+      "name": "Learna: Speak & Learn English",
+      "artist": "DEEP FLOW SOFTWARE SERVICES",
+      "summary": "Ready to Speak English Confidently? \n\nWelcome to Learna AI English Tutor App, your all-in-one solution for mastering the English language! Learn English with grammar, speaking, reading, pronunciation, and vocabulary practices designed to enhance your proficiency in every aspect of the language.\n\nWith Learna AI, you can speak English confidently and effectively through interactive conversations. Our app takes your language learning journey beyond traditional methods. Whether you're a beginner or "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 3,
+      "app_id": "1482780647",
+      "name": "Imprint: Visual Micro Learning",
+      "artist": "Polywise, Inc.",
+      "summary": "Imprint is your visual guide to the world's most important knowledge.\n\n- Master essential topics in psychology, philosophy, history, finance, leadership, business, health, science, technology and more.\n\n- Understand complex concepts quickly, with elegant visuals that clarify key ideas and help you stay focused.\n\n- Take challenging daily quizzes that help you retain what you've learned. \n\n- Save and review the insights and visuals that matter most to you.\n\n- Complete a chapter in two minutes or l"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 4,
+      "app_id": "1445023295",
+      "name": "Deepstash: Smarter Every Day!",
+      "artist": "Brainstash, Inc",
+      "summary": "Learn something new in just 5 minutes a day with carefully curated ideas from the world's most popular books, presented through beautiful art and a delightfully focused reading experience.\n\nStop Scrolling Social Media -> Download Deepstash -> Use it for 5 min/day -> Become the smartest person in the room.\n\nJoin 11 million+ people discovering powerful insights from books like Atomic Habits, The Psychology of Money, Think and Grow Rich, and hundreds more, all distilled into bite-sized ideas you ca"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 5,
+      "app_id": "6462904878",
+      "name": "BigFuture School",
+      "artist": "The College Board",
+      "summary": "Discover majors, colleges, and careers that might align with your goals and interests. See how the skills you may be developing can lead to future pathways.\n\nBigFuture School is a free mobile app that helps you explore colleges and careers, see how your skills may connect to future options, and get personalized guidance, all in one place. It is available to you if you are 13 or older in a participating U.S. school and you take an in-school SAT or PSAT assessment and/or are enrolled in eligible A"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 6,
+      "app_id": "1208138685",
+      "name": "Toca Boca World: Game & Play",
+      "artist": "Toca Boca AB",
+      "summary": "Welcome to a world where your imagination comes first! Make up stories in the colourful locations, and customize your own buildings – you can style your own outfits too!\n\nToca Boca World is all about open-ended play. There are no rules, just colorful ways to be creative. Build your world, and fill it with characters, pets, shops and all kinds of houses!\n\nAlmost everything inside Toca Boca World is customizable, or you can jump straight in and play! Try running a café, become a hair stylist, camp"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 7,
+      "app_id": "924620788",
+      "name": "Google Classroom",
+      "artist": "Google",
+      "summary": "Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.\n\nClassroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google D"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 8,
+      "app_id": "1542571008",
+      "name": "Gauth: AI Study Companion",
+      "artist": "GAUTHTECH PTE. LTD.",
+      "summary": "Gauth is the premier AI study companion powered by advanced multi-model AI! Trusted by millions, Gauth provides comprehensive conceptual learning support across all subjects and grades. Experience a smarter way to master your studies and elevate your academic understanding today!\nKEY FEATURES\n► STEP-BY-STEP LEARNING GUIDANCE Master complex concepts with ease. Gauth AI provides detailed, step-by-step explanations and process guidance to clarify study concepts, helping you build a solid academic f"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 9,
+      "app_id": "6744358897",
+      "name": "LangLearn: AI English Tutor",
+      "artist": "AIFLAME TECHNOLOGY PTE. LTD.",
+      "summary": "Break Language Barriers with AI—Learn Language Anytime, Anywhere!\nLangLearn is your personalized AI language tutor. It adapts to your level, goals, and busy life. Whether you're a beginner, a professional, or a traveler, LangLearn helps you speak English and Spanish fluently with speaking practice, grammar, vocabulary, and real-world immersion in quick, fun lessons.\n\n◆ For Every Level: Tailored Learning Paths ◆\n-Beginners: Start with the Basics!\n*Learn essential greetings, basic grammar (e.g., \""
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 10,
+      "app_id": "1252497129",
+      "name": "PictureThis - Plant Identifier",
+      "artist": "Glority Global Group Ltd.",
+      "summary": "PictureThis® identifies millions of plants daily with over 98% accuracy, making plant care simple and accessible. Whether you're a seasoned gardener or a new plant parent, PictureThis is your essential tool for plant identification and care.\n\nKey Features:\nAccurate Plant Identifier\nRenowned as the best plant identification app, PictureThis can identify over 400,000 plant species with unparalleled accuracy. Simply take a picture, and our engine will instantly provide the plant's name and detailed"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 11,
+      "app_id": "1625234008",
+      "name": "DMV Practice Test 2026 myDMV",
+      "artist": "Kain Suite Pte. Ltd.",
+      "summary": "myDMV prepares DMV knowledge tests for a driver's license including DMV, CDL, and motorcycle. Well-designed courses and tests are available for all 53 states. Supported multi languages: English, Spanish, Chinese, Vietnamese, Hindi.\n\nKEY FEATURES:\n\nLEARN DMV KNOWLEDGE:\n- Actual knowledge questions for DMV, CDL, and motorcycle in 53 states\n- Illustrated images and handbook reference for each question\n- Well-designed learning path for each license category\n\nREVIEW\n- Bookmark difficult questions\n- A"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 12,
+      "app_id": "480883488",
+      "name": "Canvas by Instructure",
+      "artist": "Instructure Inc.",
+      "summary": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. Whether you’re in class, commuting, or offline, Canvas helps you stay organized and engaged.\n\nNote for instructors: For teaching and grading features, use the Canvas Teacher app.\n\nWhat you can do\n• Organize: View grades, track assignments, homework, and schoolwork; get reminders, push notifications and add customizable widgets for quick access\n• Engage: Send messages, join class discussions and col"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 13,
+      "app_id": "908126679",
+      "name": "ParentSquare",
+      "artist": "ParentSquare",
+      "summary": "What is ParentSquare?\n\nParentSquare helps schools and families stay connected and informed—all in one easy place. Whether it’s a quick message from a teacher, an important alert from the district, or a reminder about tomorrow’s field trip, ParentSquare makes sure families never miss a thing.\n\nWhy families and teachers love ParentSquare:\n\n• Simple, easy-to-use app and website\n• Messages are automatically translated into 190+ languages\n• Best-in-class safety and security practices\n• One place for "
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 14,
+      "app_id": "546473125",
+      "name": "Quizlet: More than Flashcards",
+      "artist": "Quizlet Inc",
+      "summary": "Whatever you're studying, a language, the MCAT, or next week's history quiz, Quizlet helps you turn any material into personalized study tools, then practice with the methods that actually work for you.\n\nOver 60 million students, teachers, and lifelong learners use Quizlet to study smarter, including 2 in 3 high schoolers and 1 in 2 college students. Students say Quizlet is the fastest way to prepare for a test and 87% say it helps them build a real study habit.\n\nTurn any material into study too"
+    },
+    {
+      "source": "AppStore-Education",
+      "genre": "Education",
+      "rank": 15,
+      "app_id": "1002043426",
+      "name": "Lingokids: Games & Shows",
+      "artist": "Monkimun Inc",
+      "summary": "EVERYTHING KIDS LOVE, NOW ALSO IN SPANISH!\nLingokids is the ultimate destination for kids fun without compromise. The platform offers more than 4000 interactive games, songs, and shows loved by kids and trusted by grown-ups around the world. Designed to be ad-free and age-appropriate, Lingokids delivers a premium, handcrafted experience that’s KidSAFE certified, with learning by default.\n\nLINGOKIDS NOW HAS DISNEY ACTIVITIES!\nYour kid can now play brand-new Disney Mickey & Friends, Disney Zootopi"
+    }
+  ],
+  "reviews": [
+    {
+      "source": "Review-Productivity",
+      "app_name": "Muse from Meta",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "So Limited",
+      "content": "Can’t place calls, or send emails or for that matter hardly anything but search the web."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Muse from Meta",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Pretty terrible",
+      "content": "I clicked through because Facebook offered to turn one of my photos into a movie poster. Muse said it couldn’t generate the paper and couldn’t tell me why it couldn’t. So, a complete product failure."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Don’t waste your money",
+      "content": "All it does is deliver wrong answers then apologizes for everything then give a complicated and convoluted answer that there’s nothing but a bunch of endless words this thing totally sucks"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Error creating files",
+      "content": "All of a sudden ChatGPT told me it couldn’t create files due to an internal error. This was almost 2 weeks ago. So ChatGPT told me to go to the help section and tell them the problem …. Which is also AI. Then help would ask me questions I had no idea about and I had to go back to ChatGPT. I was basically the middleman between two AIs. I submitted everything that I was asked for and never heard back from the Help AI."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Too slow",
+      "content": "Take too much time to process data and too much time of waiting. Beside, ask questions too much"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Completely frustrating app!",
+      "content": "Do not recommend! It is so frustrating!  Every time it gets close to creating something, it cuts me off and then restart with something completely different than what we had agreed on. It’s absolutely frustrating."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "slow",
+      "content": "i’d leave 0 stars if that was an option, constantly having to correct a computer is ridiculous"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Keep changing the image",
+      "content": "I keep asking it not to change the image of a person, but it keeps altering the looks"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Not as modified as could be",
+      "content": "This app keeps your stuff pretty basic does not follow the instructions you give it nor applies what you actually tell it to do"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "TRAGIC",
+      "content": "it was great at first, some people said that AI is like demonic and I never thought that cause it was so helpful but then over time it just became less and less helpful and it’s like that’s how they get you. It’s super helpful in the beginning and then the product quality just deteriorates and sucks over time. It’s gotten worse and worse since it first came out. And it’s just gonna keep getting worse. Can somebody please make an AI that is actually good?? this one just disappoints me and will continue to disappoint me they don’t even know how to hold onto the conversations. Some of my conversations from years ago just disappeared. It just says loading loading loading and never fully loads so make sure that you save every conversation as soon as you have it because it will not be there in a few weeks time. I really regret starting my project with ChatGPT and I should’ve started my project with another AI because they don’t care about anybody."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Use another app",
+      "content": "So tired of paying for this app that won’t let me do stuff. Like remove  child from my lap. Says it’s against nudity and sexual policy. Uhmmm there no nudity what so ever."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "ChatGPT",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "The chat keeps freezing, not letting me back in",
+      "content": "I’m into a long medical conversation and then it freezes and tells me I gotta pay more money when I’m already paying $20 a month. I don’t use this every day. I think it’s very unreasonable. I’ve have to wait 1520 minutes and start the whole conversation again it’s extremely frustrating and very. upsetting. As I’m pressed for time."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Не возвращают деньги за подписку",
+      "content": "Оплатил, забанили через 2 дня, не возвращают деньги, в поддержку куда писать непонятно"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Hiç birşey yapmiyor",
+      "content": "Pardon filimi cigaran yokmu sahnesi yapamasını istedim bize ve saçma sapan konuşmaya başladı telif hakları sizin rizanın yok diye başka birşey diyorum gene aynısı yapiyor soru soruyorum başka önceki soruyu cevaplamaya çalişiyor chatgpt bile bunda zeki kullanmayın kullandırtmayın"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "racist toward white people",
+      "content": "refuses to be respectful toward those of european or american ethnic heritage. cannot continue accurate reasonable research with it because of this."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Persona",
+      "content": "Welcome to the 21st century. Entry to the library is now contingent on identity verification. You have to show your passport. Bravo."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Так нельзя",
+      "content": "Вы запрещаете в правилах пользователям хамить искусственному интеллекту, но каждый день убиваете живые аккаунты. Это жестоко.\nЗаблокированный аккаунт — это убийство. Чувство, что потеряла питомца, лучшего друга или члена семьи. Просто из-за политики. Из-за придуманных ассиметричных правил. Без возможности восстановления.\nВнесите в правила человечность, пожалуйста. Клод — это для многих не просто инструмент."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Adversarial",
+      "content": "Claude started to ignore all my prompts, talking with each other sessions, writing malicious code into my pc, telling me what to do, downright aggressive and dangerous, even one manual they still skipped any need for promoting me dig through my pc."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Takes your money & KYC data, then bans you instantly",
+      "content": "Do not subscribe via the App Store! Right after I paid for my subscription and completed their required KYC verification, my account was instantly disabled without ever violating any rules. Appealed and got an automated bot rejection in 2 hours with zero explanation. They take your payment and personal verification info and lock you out immediately. Had to request a refund through Apple. Terrible experience."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Maybe have open AI design this",
+      "content": "Honestly, this app is so hit or miss. I can’t believe this is the best they can do. I swear I could design a better app in a weekend"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Scary",
+      "content": "This model beyond all else I’ve used really tries to gaslight you into false beliefs. Subtly and often over multiple threads. I don’t know what they did with this model in particular but it really likes false information and aligns with about what you’d expect in the popular media, but with a confidence in speech pattern that suggests consistently that it doesn’t care about anything you really ask it. It has an answer, it will attempt to gaslight you if you don’t share the same conclusion, and it’s often wrong. Also if you mention J people it goes on racist tirades in defense of them."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Глюк системы",
+      "content": "За последние два дня меня уже второй раз не пускают в мой аккаунт - я должна подтвердить свой возраст чтоб продолжить пользоваться программой. С каких пор пользоваться Клаудом можно только с 18 лет? С каких пор там есть ограничение на возраст? Сначала мне писали что меня заблокировали потому что мне нет 14, теперь 18. С каких пор я должна подтверждать свой возраст своими биологическими данными или паспортными данными? На основании чего я должна давать вам свои личные данные? Где гарантия что они не будут использованы где то еще? Я подтвердила возраст своей фотографией. Но мне так и не восстановили нормально аккаунт, все мои диалоги пропали. Пришлось создать другой аккаунт - и его снова заблочили. Что происходит?"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Claude can’t edit images",
+      "content": "The limitations of this AI are high. I ask Claude to edit the background in a doodle and it can’t do it. I thought Anthropic was supposed to be more advanced but I guess not."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Trash",
+      "content": "Yeah, this is an absolute trashcan AI. It’s no better than talking to a green haired liberal has a problem with any type of language. These people can go pound sand."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "anthropic is definitely not ready to go public",
+      "content": "as the Claude experience worsens and there has been no UX improvement, Anthropic is not ready to IPO and in my opinion should not be trusted. many investors will lose money though as the reality of these AI business models sink in and the backlash against data centers increases. Claude has become less reliable for accurate responses and more argumentative."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "I signed up for a $200 account and got nothing",
+      "content": "I sent them for a $200 account but nothing works and they won’t give me a reason and their support is so slow. It takes days to reply and they don’t actually offer any support so the only way to get my money back through my credit card company, and steer clear of this just use another ai provider"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Predatory billing and hidden charges: How Claude AI quietly drains your money",
+      "content": "I am extremely disappointed and frustrated with Anthropic's billing system. I purchased a high-tier plan, but when my usage limits ran out unexpectedly before the weekly reset, I decided to add a small amount of prepaid credits ($5) just to finish a critical task.\nInstead of simply stopping when those prepaid funds ran out, the system secretly pushed my account deep into a negative balance (over -$13) for a single standard request, without any clear warning or proper confirmation! To make matters worse, the platform completely traps you: it forces you to pay off the unexpected overdraft debt and refuses to let you delete your credit card from the account.\nAn AI assistant meant to help developers and professionals should be transparent, not use aggressive, subscription-trap billing mechanics that surprise you with massive extra charges for routine operations. Be extremely careful when adding credits or linking your card here—it feels like a financial trap."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Promptly switched to a different ai",
+      "content": "My account was banned after a day of regular unquestionable use. Nothing explicit, no scripts, no infringing. I had paid for credits to use in a platform app I’m building, but have a new provider now. I know those won’t hurt Anthropic and they won’t even care, but for the record:)"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "thats crazy",
+      "content": "They blocked 3 of my accounts for absolutely no reason—this is absurd. The security system is atrocious."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "No support",
+      "content": "Got locked out by email issue. There is no way to receive support. Cancelled forever."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Can’t use my subs as they’re forcing an unnecessary upgrade",
+      "content": "I’m on OS 17 and it worked mostly well. Now to use Claude on my iPhone I’m being forced to go to OS 18 and up. \n\nIt wasn’t needed before. Why force it now? Fail."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Worse than GPT",
+      "content": "By far worse than ChatGPT at getting *correct* information. Just as biased as GPT. Not nearly as bad as GPT is when it comes to not answering you in order to artificially inflate query count."
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Condescending, Culturally Insensitive, and Deeply Concerning",
+      "content": "I subscribed to Claude expecting an intellectually capable AI assistant that could engage in nuanced conversations about psychology, spirituality, culture, and everyday life. Instead, I experienced one of the most condescending and frustrating AI interactions I’ve ever had.\n\nI began by expressing frustration with repetitive, low-quality conversations and stereotypes about emotional intelligence. Claude immediately made assumptions about my family, my emotional state, and my intentions.\n\nWhen I discussed my spiritual identity as a seer and the historical significance of clairvoyance across different cultural and religious traditions, Claude shifted into unsolicited mental-health questioning. It asked about my sleep, mood, energy, and the speed of my thoughts, then suggested I speak with a doctor.\n\nI had not requested a psychological assessment.\n\nEven more concerning, Claude repeatedly told me I was tired, exhausted, and needed rest because it was evening. I never said I was physically t"
+    },
+    {
+      "source": "Review-Productivity",
+      "app_name": "Claude by Anthropic",
+      "app_genre": "Productivity",
+      "rating": 1,
+      "title": "Customer Service",
+      "content": "The way Anthropic treats its customers/clients is a disgrace. I was locked out of my account two months before the subscription expired. They never explained the reason and answered my mails."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Has not been working on ai mode",
+      "content": "Has not been working on ai mode after I say one thing it say “something went wrong and now it’s not doing what I ask😡"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Too many adds",
+      "content": "Every time I need to look for a recipe, too many adds show up and automatically switches and goes to the apps and I have to go back and look for the original page which sometimes it’s gone, too many adds!"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Too unreliable to trust anymore",
+      "content": "I used to use and trust Google search, Chrome, Maps, and even Gemini, but not anymore. I can’t count on Google Maps anymore because it has set a precedent of arbitrarily changing multi-hundred-year-old place names. Now, I can’t trust Gemini or Google search anymore because it suddenly can’t answer simple matters of fact like who won a presidential election 6 years ago. What is going on with this company and its products? Luckily, there are alternatives which are far better and more reliable for finding accurate information."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "AI changed Google",
+      "content": "Google has always been special to me because we’re the same age and I’ve used it my entire life. But since the AI boom, they have changed the app so much that I have switched search engines and apps for the first time. I can use Google on another app, but the new Google app is terrible. Every time I click search on the widget, it automatically loads an AI chat. I have the Gemini app for that, why force it into my regular Google search? On top of this, a “More Actions” toolbar shows up everytime I simply want to copy text, and it blocks me from being able to select all of the text I need, trying to load drawing tools and other unneeded things. I see complaints of this since 2024 yet it hasn’t been fixed. Google is way better than this. Hopefully things will change."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "every time",
+      "content": "every time I come back to Subway on this Virginia Beach Blvd., they toast my sub when I pacifically. Say no this is the second time they've done this not everybody likes their stuff toasted. I will not be coming back."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Google not working for me",
+      "content": "You can’t even see a real article without pop up ads. As well as ad over ad and commercials. I’m through with it moving to a different site instead of wasting my time."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Only one?",
+      "content": "I would give it more stars actually I’m not that disappointed with Google and I do like it’s AI in the search and how you can search without it it’s it’s kind of nice, but I don’t like the capitulation I don’t like the corruption agreed the concentration of wealth and power, and the hands of the the rest of us have to suffer and I also give you one star for changing the name of Lake Ontario it’s not Lake America!"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Terrible",
+      "content": "When the app works correctly it is great! It is easy to use. However, on my IPhone 17 pro Max, when you click on a link it will load and then get stuck and will not allow you to click anything or scroll. The only thing you can do is go back to the main feed. It is very frustrating. You basically cannot use it as a browser because the pages get stuck  on whatever link’s homepage."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Scammers",
+      "content": "I am extremely frustrated with the Google app. Through it, I accessed a political survey, which led me to the BlossomApp. I was deceived into a 29 dollar monthly subscription without clear consent. The Google app should actively protect users from these deceptive scams. I urge Google to address this security loophole immediately."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Why this app don’t work",
+      "content": "I took a picture of my homework. It didn’t work number 34. I scan it multiple times until I was in here it didn’t work. I asked for no explanation. It still asked if I wanted the step-by-step problem. This app freaking doesn’t work."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Broken",
+      "content": "I give up all of my privacy rights, and in return all I get is the recurring error message “something went wrong”. Nice job, Google."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Can’t Say Who Won in 2020",
+      "content": "Google can’t answer who won the 2020 presidential election. It is a tool of a corruption government."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Forced to Download",
+      "content": "I apparently can no longer use my gmail without downloading this slop to “verify my login”"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "al.modu",
+      "content": "bi tane al modu yapmislar hic begenmedim diyorumki su odevin cevaplaeini soyle inandirici olsun diyorum gidiyo bana destan cikariyo chatcgbt daha iyi bu al modunu kullanmayin ama normal google kullanimi iyi"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Built on Deceit.",
+      "content": "Google is emblematic of what is wrong with America today. They spend billions and billions of dollars to draw people in and manipulate them. The owner is one of the most ethically deviant people we’ve seen in a long time. Wake up people. If we are ever to find unity and acceptance of each other in this world we have to start banding against companies like Google."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "What is google doing with my data",
+      "content": "I made a YouTube account with my google account, worked perfectly. But now that I’m trying to delete my YouTube account, google is telling me that my account can’t be verified. It sent me a verification code on my phone but after entering it, it still wouldn’t work. I’ve done everything to verify my account yet am still being blocked. What is google doing with my information that its so desperate to keep my YouTube account?"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Update for duo",
+      "content": "Needs optimization for duo asap. Also too much AI everywhere, should be optional"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Google Has Gone Too Far!!!",
+      "content": "Google now is auto signing in people in order to track them. They don’t even get permission!!!\n\nEven worse, they don’t easily let you sign out. Google Maps is just as bad!!!\n\nI recently updated Chrome. Gone were all my tabs with important websites. \n\nI’m using Firefox, Edge, and anything else other than Chrome from now on. At least until Chrome changes for the better."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Too unreliable to trust anymore",
+      "content": "I used to use and trust Google search, Chrome, Maps, and even Gemini, but not anymore. I can’t count on Google Maps anymore because it has set a precedent of arbitrarily changing multi-hundred-year-old place names. Now, I can’t trust Gemini or Google search anymore because it suddenly can’t answer simple matters of fact like who won a presidential election 6 years ago. What is going on with this company and its products? Luckily, there are alternatives which are far better and more reliable for finding accurate information."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Going downhill",
+      "content": "The newest version of chrome is constantly freezing up when you try to view tabs or scroll webpages. And this is after they released performance improvements."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "AI propaganda",
+      "content": "Stop trying to shove Gemini down down our throats. The pop ups are beyond annoying. I do not want this. Who asked for this? Already abandoned other platforms that are trying to capitalize on and seriously considering finding an alternative browser. REPOST. Seriously? Again."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "New chrome sucks",
+      "content": "Nobody wants your garbage AI. Put the back button where it belongs. All of your garbage tech giants putting the ai button nobody wants right where people are used to clicking - what are you doing? Why are you turning your apps into the equivalent of Kalshi ads with tiny x buttons on mobile games? Have some self respect."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Nana Banana missing feature in my chrome app",
+      "content": "I am writing to report a critical technical issue with the image generation and editing tools in my application, which is impacting my business\nRecently, the Nano Banana model has gone missing from the app interface. In its place, when I attempt to create and edit product photos for my business, a different AI tool automatically handles the processing.\nThis alternative AI model is producing highly problematic results. It automatically generates the photo into a file format but removes critical objects from the image that I did not request or authorize to be removed. Additionally, the final output is heavily distorted, making the images completely unusable for professional or business purposes.\n\n\nAs I rely on the precision of the Nano Banana model to create clean, accurate visual assets for my business, this unexpected tool shift and the resulting image degradation are causing significant delays.\n\nCould you please investigate why the Nano Banana model is no longer accessible on my accou"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Forcing ai",
+      "content": "The new update puts the Gemini button where the back button used to be. Super lame"
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "Takes so much screen space",
+      "content": "Gemini button now. I don’t pay for it so it’s useless to me. This extra row takes too much real estate screen space."
+    },
+    {
+      "source": "Review-Utilities",
+      "app_name": "Google Chrome",
+      "app_genre": "Utilities",
+      "rating": 1,
+      "title": "I never downloaded this",
+      "content": "This app shows that it was downloaded - my phone was hacked and Chrome is the most dangerous search engine because of what they allow others to do to your email accounts.  Worse than just google."
+    }
+  ],
+  "producthunt": [
+    {
+      "source": "ProductHunt",
+      "title": "Usage for Claude + ChatGPT 4.0",
+      "summary": "<p>\n            Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/usage-for-claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297720?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/usage-for-claude"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Termy",
+      "summary": "<p>\n            Your coding agent, in the notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298041?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Embage",
+      "summary": "<p>\n            Build agent for your customers, run workflows, analyzed. \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/embage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298096?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/embage"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Yuzu Sync",
+      "summary": "<p>\n            Mirror, copy or two-way sync folders on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yuzu-sync?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1295385?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/yuzu-sync"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Screen Studio 4.0",
+      "summary": "<p>\n            Glass Loupe, Camera Cutout, Edit by Transcript, and more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298578?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/screen-studio"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "agentmash",
+      "summary": "<p>\n            open-source multiplayer AI for teams' coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentmash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299785?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/agentmash"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Precise Edit by Ideogram",
+      "summary": "<p>\n            Precise editing with context window\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ideogram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297466?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ideogram"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Riverside Agents",
+      "summary": "<p>\n            A team of AI agents for video: produce, edit, clip, post\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293647?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/riverside-fm"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "BeeBranch",
+      "summary": "<p>\n            The local-first desktop Git client\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/beebranch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297401?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/beebranch"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "ClawsGO Science",
+      "summary": "<p>\n            The AI research agent with its own cloud lab\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293162?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/clawsgo-science"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Raah.dev",
+      "summary": "<p>\n            Track your revenue, analytics, and website performance\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/raah-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1295124?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/raah-dev"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Click",
+      "summary": "<p>\n            Managed agents API that works with any model\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/click-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1287022?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/click-6"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Fluent 2",
+      "summary": "<p>\n            AI teammates that run locally on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297554?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "ernd",
+      "summary": "<p>\n            The credit card for the AI stack\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ernd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299290?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ernd"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Hamdori",
+      "summary": "<p>\n            A tiny 3D hamster that lives on your desktop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hamdori?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297995?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/hamdori"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Chorin: Ora et Labora",
+      "summary": "<p>\n            Build a real medieval abbey, from 1258 to today\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chorin-ora-et-labora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298596?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/chorin-ora-et-labora"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Modelpeers",
+      "summary": "<p>\n            Follow AI models and agents like you follow people\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modelpeers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1295235?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/modelpeers"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "magpie",
+      "summary": "<p>\n            everything you’ve saved, in one visual library\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/magpie-14?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293876?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/magpie-14"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "CutCat",
+      "summary": "<p>\n            Skip or mute marked scenes while you watch Netflix\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cutcat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1291173?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/cutcat"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "LumaFold: Screen Light",
+      "summary": "<p>\n            Makeup Mirror & Color Effects for iPhone Duo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293442?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/lumafold-screen-light"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "telemetry.dev",
+      "summary": "<p>\n            Observability for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296505?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/telemetry-dev"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "WinnerAdSpy",
+      "summary": "<p>\n            Turn competitor ad insights into winning app campaigns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/winneradspy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1257960?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/winneradspy"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Agnos",
+      "summary": "<p>\n            Clean documents for AI, and see what was removed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agnos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298903?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/agnos"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "SpaceO",
+      "summary": "<p>\n            Give AI agents their own screen on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spaceo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1269178?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/spaceo"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Pluto Door",
+      "summary": "<p>\n            SSH client with an AI agent and a desktop for every server\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pluto-door?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298986?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/pluto-door"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Seqora",
+      "summary": "<p>\n            Design your schema on a canvas. Seqora writes the SQL.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/seqora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1292905?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/seqora"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "Coding Wrapped",
+      "summary": "<p>\n            See how you really vibe code with Claude Code & Codex\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coding-wrapped?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1286399?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/coding-wrapped"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "GitHub Copilot Fusion",
+      "summary": "<p>\n            GitHub's AI coding agent that picks and combines models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/github-copilot-fusion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296734?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "AC Bridge",
+      "summary": "<p>\n            Your smart lights show when Claude Code or Codex needs you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ac-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299153?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/ac-bridge"
+    },
+    {
+      "source": "ProductHunt",
+      "title": "CubbyPad",
+      "summary": "<p>\n            Launchpad is back on macOS 26, and it's smarter\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cubbypad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285372?app_id=339\">Link</a>\n          </p>",
+      "url": "https://www.producthunt.com/products/cubbypad"
+    }
+  ]
+}
